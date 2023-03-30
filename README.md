@@ -5,3 +5,4 @@ Solved:
 -> How many numbers smaller than current number - easy leetcode problem
 -> Left and Right Difference - easy leetcode problem
 -> Running sum of 1D Array - leetcode easy problem 
+-> Shuffle the Array - leetcode easy problem 
