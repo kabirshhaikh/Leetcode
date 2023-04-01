@@ -7,3 +7,4 @@ Solved:
 -> Running sum of 1D Array - leetcode easy problem 
 -> Shuffle the Array - leetcode easy problem 
 -> Find N Unique numbers that add upto zero - leetcode easy problem 
+-> Jewels and Stones - leetcode easy problem
