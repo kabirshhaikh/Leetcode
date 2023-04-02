@@ -8,3 +8,4 @@ Solved:
 -> Shuffle the Array - leetcode easy problem 
 -> Find N Unique numbers that add upto zero - leetcode easy problem 
 -> Jewels and Stones - leetcode easy problem
+-> Best time to buy and sell a stock - leetcod easy problem 
