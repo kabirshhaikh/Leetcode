@@ -9,3 +9,4 @@ Solved:
 -> Find N Unique numbers that add upto zero - leetcode easy problem 
 -> Jewels and Stones - leetcode easy problem
 -> Best time to buy and sell a stock - leetcod easy problem 
+-> Check if two strings are equivalent - leetcode easy problem
