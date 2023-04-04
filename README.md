@@ -11,3 +11,4 @@ Solved:
 -> Best time to buy and sell a stock - leetcod easy problem 
 -> Check if two strings are equivalent - leetcode easy problem
 -> Find a value of variable after performing operation - leetcode easy problem
+-> Find difference between element sum and digit sum of an array - leetcode easy problem
