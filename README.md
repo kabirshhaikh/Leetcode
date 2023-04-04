@@ -10,3 +10,4 @@ Solved:
 -> Jewels and Stones - leetcode easy problem
 -> Best time to buy and sell a stock - leetcod easy problem 
 -> Check if two strings are equivalent - leetcode easy problem
+-> Find a value of variable after performing operation - leetcode easy problem
