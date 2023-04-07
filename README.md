@@ -14,3 +14,4 @@ Solved:
 -> Find difference between element sum and digit sum of an array - leetcode easy problem
 -> Two Sum - leetcode easy problem 
 -> Count number of consistent strings - leetcode easy problem 
+-> Build Array from Permutation - leetcode easy problem 
