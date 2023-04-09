@@ -16,3 +16,4 @@ Solved:
 -> Count number of consistent strings - leetcode easy problem 
 -> Build Array from Permutation - leetcode easy problem 
 -> Maximum number of words in a sentence - leetcode easy problem 
+-> Sort the people - leetcode easy problem
