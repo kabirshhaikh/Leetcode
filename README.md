@@ -18,3 +18,4 @@ Solved:
 -> Maximum number of words in a sentence - leetcode easy problem 
 -> Sort the people - leetcode easy problem
 -> Create target array in the given order - leetcode easy problem 
+-> Plus One - leetcode easy problem
