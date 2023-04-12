@@ -19,3 +19,4 @@ Solved:
 -> Sort the people - leetcode easy problem
 -> Create target array in the given order - leetcode easy problem 
 -> Plus One - leetcode easy problem
+-> Number of good pairs - leetcode easy problem 
