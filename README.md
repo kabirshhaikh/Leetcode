@@ -20,3 +20,4 @@ Solved:
 -> Create target array in the given order - leetcode easy problem 
 -> Plus One - leetcode easy problem
 -> Number of good pairs - leetcode easy problem 
+-> Count Items Matching a Rule - leetcode easy problem
