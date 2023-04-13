@@ -21,3 +21,4 @@ Solved:
 -> Plus One - leetcode easy problem
 -> Number of good pairs - leetcode easy problem 
 -> Count Items Matching a Rule - leetcode easy problem
+-> Count number of pairs with absolute difference K - leetcode easy problem
