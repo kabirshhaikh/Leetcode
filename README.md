@@ -23,3 +23,4 @@ Solved:
 -> Count Items Matching a Rule - leetcode easy problem
 -> Count number of pairs with absolute difference K - leetcode easy problem
 -> Count good triplets - leetcode easy problem 
+-> Maximum product of two elements in an Array - leetcode easy problem
