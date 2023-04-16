@@ -24,3 +24,4 @@ Solved:
 -> Count number of pairs with absolute difference K - leetcode easy problem
 -> Count good triplets - leetcode easy problem 
 -> Maximum product of two elements in an Array - leetcode easy problem
+-> Find numbers with even number of digit - leetcode easy problem
