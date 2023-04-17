@@ -26,3 +26,4 @@ Solved:
 -> Maximum product of two elements in an Array - leetcode easy problem
 -> Find numbers with even number of digit - leetcode easy problem
 -> Count Equal and Divisible Pairs in an Array - leetcode easy problem
+-> Relative Sort Array - leetcode easy problem
