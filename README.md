@@ -28,3 +28,4 @@ Solved:
 -> Count Equal and Divisible Pairs in an Array - leetcode easy problem
 -> Relative Sort Array - leetcode easy problem
 -> Richest Customer Wealth - leetcode easy problem
+-> Flipping an Image - leetcode easy problem
