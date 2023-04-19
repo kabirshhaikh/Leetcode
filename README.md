@@ -29,3 +29,4 @@ Solved:
 -> Relative Sort Array - leetcode easy problem
 -> Richest Customer Wealth - leetcode easy problem
 -> Flipping an Image - leetcode easy problem
+-> Sort array by parity - leetcode easy problem 
