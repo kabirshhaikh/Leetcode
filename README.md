@@ -30,3 +30,4 @@ Solved:
 -> Richest Customer Wealth - leetcode easy problem
 -> Flipping an Image - leetcode easy problem
 -> Sort array by parity - leetcode easy problem 
+-> Remove duplicates from sorted array - leetcode easy problem
