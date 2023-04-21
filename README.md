@@ -32,3 +32,4 @@ Solved:
 -> Sort array by parity - leetcode easy problem 
 -> Remove duplicates from sorted array - leetcode easy problem
 -> Find greatest common divisor of array - leetcode easy problem
+-> Remove Element - leetcode easy problem
