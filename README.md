@@ -33,3 +33,4 @@ Solved:
 -> Remove duplicates from sorted array - leetcode easy problem
 -> Find greatest common divisor of array - leetcode easy problem
 -> Remove Element - leetcode easy problem
+-> Merge Sorted Array - leetcode easy problem
