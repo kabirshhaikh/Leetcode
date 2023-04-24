@@ -36,4 +36,5 @@ Solved:
 -> Merge Sorted Array - leetcode easy problem
 -> Three Sum - leetcode medium problem
 -> Decompress run length of an encoded list - leetcode easy problem 
+-> Search Insert - leetcode easy problem
 
