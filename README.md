@@ -38,4 +38,5 @@ Solved:
 -> Decompress run length of an encoded list - leetcode easy problem 
 -> Search Insert - leetcode easy problem
 -> Defanging an IP Address - leetcode easy problem
+-> Truncate Sentence - leetcode easy problem
 
