@@ -39,4 +39,5 @@ Solved:
 -> Search Insert - leetcode easy problem
 -> Defanging an IP Address - leetcode easy problem
 -> Truncate Sentence - leetcode easy problem
+-> Number of Arithematic Triplets - leetcode easy problem 
 
