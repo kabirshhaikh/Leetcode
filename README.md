@@ -40,4 +40,5 @@ Solved:
 -> Defanging an IP Address - leetcode easy problem
 -> Truncate Sentence - leetcode easy problem
 -> Number of Arithematic Triplets - leetcode easy problem 
+-> Longest Common Prefix - leetcode easy problem
 
