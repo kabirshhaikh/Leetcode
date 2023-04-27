@@ -42,4 +42,5 @@ Solved:
 -> Number of Arithematic Triplets - leetcode easy problem 
 -> Longest Common Prefix - leetcode easy problem
 -> Count negative numbers in a sorted matrix - leetcode easy problem
+-> Maximum product difference between two pairs - leetcode easy problem 
 
