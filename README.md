@@ -43,4 +43,5 @@ Solved:
 -> Longest Common Prefix - leetcode easy problem
 -> Count negative numbers in a sorted matrix - leetcode easy problem
 -> Maximum product difference between two pairs - leetcode easy problem 
+-> Sum Multiples - leetcode easy problem
 
