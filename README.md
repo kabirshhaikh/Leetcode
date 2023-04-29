@@ -44,4 +44,5 @@ Solved:
 -> Count negative numbers in a sorted matrix - leetcode easy problem
 -> Maximum product difference between two pairs - leetcode easy problem 
 -> Sum Multiples - leetcode easy problem
+-> Minimum number of moves to seat everyone - leetcode easy problem
 
