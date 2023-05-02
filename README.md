@@ -47,4 +47,4 @@ Solved:
 -> Minimum number of moves to seat everyone - leetcode easy problem
 -> Distribute Candies - leetcode easy problem
 -> Maximum number of pairs in Array - leetcode easy problem
-
+-> Delete greatest value in each row - leetcode easy problem
