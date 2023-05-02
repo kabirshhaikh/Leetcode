@@ -48,3 +48,4 @@ Solved:
 -> Distribute Candies - leetcode easy problem
 -> Maximum number of pairs in Array - leetcode easy problem
 -> Delete greatest value in each row - leetcode easy problem
+-> Minimum operations to make the array increasing - leetcode easy problem
