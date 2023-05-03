@@ -49,3 +49,4 @@ Solved:
 -> Maximum number of pairs in Array - leetcode easy problem
 -> Delete greatest value in each row - leetcode easy problem
 -> Minimum operations to make the array increasing - leetcode easy problem
+-> Remove vowels from a string - leetcode easy problem
