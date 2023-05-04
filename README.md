@@ -51,3 +51,4 @@ Solved:
 -> Minimum operations to make the array increasing - leetcode easy problem
 -> Remove vowels from a string - leetcode easy problem
 -> Armstrong Number - leetcode easy problem
+-> Goal Parser Interpretation - leetcode easy problem 
