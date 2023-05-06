@@ -53,3 +53,4 @@ Solved:
 -> Armstrong Number - leetcode easy problem
 -> Goal Parser Interpretation - leetcode easy problem 
 -> Split a string into balanced strings - leetcode easy problem
+-> To lower case - leetcode easy problem
