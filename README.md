@@ -55,3 +55,4 @@ Solved:
 -> Split a string into balanced strings - leetcode easy problem
 -> To lower case - leetcode easy problem
 -> Count Asterisks - leetcode easy problem
+-> Check if a sentence is pangram - leetcode easy problem 
