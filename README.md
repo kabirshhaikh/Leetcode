@@ -58,3 +58,4 @@ Solved:
 -> Check if a sentence is pangram - leetcode easy problem 
 -> Reverse words in a string 3 - leetcode easy problem
 -> First letter to appear twice - leetcode easy problem 
+-> Find first palindromic string in an array - leetcode easy problem 
