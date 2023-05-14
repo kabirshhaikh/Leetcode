@@ -61,3 +61,4 @@ Solved:
 -> Find first palindromic string in an array - leetcode easy problem 
 -> Sorting the sentence - leetcode easy problem
 -> Reverse a string - leetcode practise question
+-> Merge strings alternately - leetcode easy problem
