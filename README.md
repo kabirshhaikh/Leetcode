@@ -64,3 +64,4 @@ Solved:
 -> Merge strings alternately - leetcode easy problem
 -> Shuffle Strings - leetcode easy problem
 -> Remove digit from number to maximize the result - leetcode easy problem
+-> Count prefixes of a string - leetcode easy problem
