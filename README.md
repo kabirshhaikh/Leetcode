@@ -63,3 +63,4 @@ Solved:
 -> Reverse a string - leetcode practise question
 -> Merge strings alternately - leetcode easy problem
 -> Shuffle Strings - leetcode easy problem
+-> Remove digit from number to maximize the result - leetcode easy problem
