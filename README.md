@@ -65,3 +65,4 @@ Solved:
 -> Shuffle Strings - leetcode easy problem
 -> Remove digit from number to maximize the result - leetcode easy problem
 -> Count prefixes of a string - leetcode easy problem
+-> Determine if string halves are alike - leetcode easy problem 
