@@ -67,3 +67,4 @@ Solved:
 -> Count prefixes of a string - leetcode easy problem
 -> Determine if string halves are alike - leetcode easy problem 
 -> Sign of the product of an array - leetcode easy problem 
+-> Substrings of size three with distinct characters - leetcode easy problem
