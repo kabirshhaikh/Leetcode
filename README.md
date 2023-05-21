@@ -70,3 +70,4 @@ Solved:
 -> Substrings of size three with distinct characters - leetcode easy problem
 -> Number of strings that appear as Substrings in word - leetcode easy problem
 -> Reverse String - No extra memory - leetcode easy problem 
+-> Intersection of two arrays - leetcode easy problem 
