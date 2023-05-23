@@ -71,3 +71,4 @@ Solved:
 -> Number of strings that appear as Substrings in word - leetcode easy problem
 -> Reverse String - No extra memory - leetcode easy problem 
 -> Intersection of two arrays - leetcode easy problem 
+-> Reverse prefix of word - leetcode easy problem 
