@@ -74,3 +74,4 @@ Solved:
 -> Reverse prefix of word - leetcode easy problem 
 -> Find array concatenation value - leetcode easy problem 
 -> Divide array into equal pairs - leetcode easy problem
+-> Find the K-Beauty of a number - leetcode easy problem
