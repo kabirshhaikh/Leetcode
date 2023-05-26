@@ -75,3 +75,4 @@ Solved:
 -> Find array concatenation value - leetcode easy problem 
 -> Divide array into equal pairs - leetcode easy problem
 -> Find the K-Beauty of a number - leetcode easy problem
+-> Squares of a sorted array - leetcode easy problem 
