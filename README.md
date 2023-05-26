@@ -76,3 +76,4 @@ Solved:
 -> Divide array into equal pairs - leetcode easy problem
 -> Find the K-Beauty of a number - leetcode easy problem
 -> Squares of a sorted array - leetcode easy problem 
+-> Maximum Average Subarray - 1 - leetcode easy problem 
