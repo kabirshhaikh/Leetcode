@@ -78,3 +78,4 @@ Solved:
 -> Squares of a sorted array - leetcode easy problem 
 -> Maximum Average Subarray - 1 - leetcode easy problem 
 -> Top K Frequent Elements - leetcode medium problem
+-> Sum of digits of string after convert - leetcode easy problem
