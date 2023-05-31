@@ -82,3 +82,4 @@ Solved:
 -> Number of senior citizens - leetcode easy problem
 -> Find the first index of the first occurence in a string - leetcode easy problem
 -> Find the distance value between two arrays - leetcode easy problem
+-> Contains Duplicate2 - leetcode easy problem
