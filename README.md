@@ -81,3 +81,4 @@ Solved:
 -> Sum of digits of string after convert - leetcode easy problem
 -> Number of senior citizens - leetcode easy problem
 -> Find the first index of the first occurence in a string - leetcode easy problem
+-> Find the distance value between two arrays - leetcode easy problem
