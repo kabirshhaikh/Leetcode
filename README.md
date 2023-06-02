@@ -84,3 +84,4 @@ Solved:
 -> Find the distance value between two arrays - leetcode easy problem
 -> Contains Duplicate2 - leetcode easy problem
 -> Subtract the product and sum of digits of an integer - leetcode easy problem
+-> Remove trailing zeros from a string - leetcode easy problem
