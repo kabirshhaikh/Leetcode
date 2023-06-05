@@ -87,3 +87,4 @@ Solved:
 -> Remove trailing zeros from a string - leetcode easy problem
 -> Single Number - leetcode easy problem
 -> Height Checker - leetcode easy problem
+-> Intersection of three sorted arrays - leetcode easy problem
