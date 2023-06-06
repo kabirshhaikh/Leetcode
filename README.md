@@ -88,3 +88,4 @@ Solved:
 -> Single Number - leetcode easy problem
 -> Height Checker - leetcode easy problem
 -> Intersection of three sorted arrays - leetcode easy problem
+-> Sum of Unique Elements - leetcode easy problem
