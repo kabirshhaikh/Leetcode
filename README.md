@@ -89,3 +89,4 @@ Solved:
 -> Height Checker - leetcode easy problem
 -> Intersection of three sorted arrays - leetcode easy problem
 -> Sum of Unique Elements - leetcode easy problem
+-> Check if a word occurs as a prefix of any word in a sentence - leetcode easy problem
