@@ -91,3 +91,4 @@ Solved:
 -> Sum of Unique Elements - leetcode easy problem
 -> Check if a word occurs as a prefix of any word in a sentence - leetcode easy problem
 -> Check if all characters have equal number of occurrences - leetcode easy problem
+-> Move Zeroes - leetcode easy problem
