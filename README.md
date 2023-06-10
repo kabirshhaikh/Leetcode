@@ -93,3 +93,4 @@ Solved:
 -> Check if all characters have equal number of occurrences - leetcode easy problem
 -> Move Zeroes - leetcode easy problem
 -> Is Subsequenc - leetcode easy problem
+-> Check if N and Its Double Exists - leetcode easy problem
