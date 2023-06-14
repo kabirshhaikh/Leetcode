@@ -98,3 +98,4 @@ Solved:
 -> Subarray Product Less Than K - leetcode medium problem
 -> Most common word - leetcode easy problem
 -> Sum of all odd length subarrays - leetcode easy problem
+-> Minimum Absolute Difference - leetcode easy problem
