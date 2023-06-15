@@ -100,3 +100,4 @@ Solved:
 -> Sum of all odd length subarrays - leetcode easy problem
 -> Minimum Absolute Difference - leetcode easy problem
 -> Reverse words in a string - leetcode medium problem
+-> Can place flowers - leetcode easy problem 
