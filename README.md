@@ -101,3 +101,4 @@ Solved:
 -> Minimum Absolute Difference - leetcode easy problem
 -> Reverse words in a string - leetcode medium problem
 -> Can place flowers - leetcode easy problem 
+-> Remove letter to equalize frequency - leetcode easy problem
