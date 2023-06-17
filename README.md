@@ -102,3 +102,4 @@ Solved:
 -> Reverse words in a string - leetcode medium problem
 -> Can place flowers - leetcode easy problem 
 -> Remove letter to equalize frequency - leetcode easy problem
+-> Number of ways to split array - leetcode medium problem
