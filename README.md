@@ -104,3 +104,4 @@ Solved:
 -> Remove letter to equalize frequency - leetcode easy problem
 -> Number of ways to split array - leetcode medium problem
 -> Largest Unique Number - leetcode easy problem
+-> Find the difference between two arrays - leetcode easy problem
