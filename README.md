@@ -110,3 +110,4 @@ Solved:
 -> Maximum number of vowels in a substring of a given length - leetcode medium problem
 -> Destination City - leetcode easy problem
 -> Valid Palindrome - leetcode easy problem
+-> Duplicate Zeroes - leetcode easy problem
