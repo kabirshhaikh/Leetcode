@@ -114,3 +114,4 @@ Solved:
 -> Sort Array By Increasing Frequency - leetcode easy problem
 -> Reverse Vowels Of A String - leetcode easy problem
 -> Most Frequent Even Element - leetcode easy problem
+-> Palindrome Number - leetcode easy problem
