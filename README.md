@@ -116,3 +116,4 @@ Solved:
 -> Most Frequent Even Element - leetcode easy problem
 -> Palindrome Number - leetcode easy problem
 -> Product of Array Except Self - leetcode medium problem
+-> Count Number of Nice Subarrays - leetcode medium problem
