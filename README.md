@@ -119,3 +119,4 @@ Solved:
 -> Count Number of Nice Subarrays - leetcode medium problem
 -> Reverse String 2 - leetcode easy problem
 -> Minimum Size Subarray Sum - leetcode medium problem
+-> Maximum count of positive integer and negative integer - leetcode easy problem
