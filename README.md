@@ -120,3 +120,4 @@ Solved:
 -> Reverse String 2 - leetcode easy problem
 -> Minimum Size Subarray Sum - leetcode medium problem
 -> Maximum count of positive integer and negative integer - leetcode easy problem
+-> Sort characters by frequency - leetcode medium problem
