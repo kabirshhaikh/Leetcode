@@ -123,3 +123,4 @@ Solved:
 -> Sort characters by frequency - leetcode medium problem
 -> Majority Element - leetcode easy problem
 -> Find lucky integer in an array - leetcode easy problem
+-> Count common words with one occurence - leetcode easy problem
