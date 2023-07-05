@@ -122,3 +122,4 @@ Solved:
 -> Maximum count of positive integer and negative integer - leetcode easy problem
 -> Sort characters by frequency - leetcode medium problem
 -> Majority Element - leetcode easy problem
+-> Find lucky integer in an array - leetcode easy problem
