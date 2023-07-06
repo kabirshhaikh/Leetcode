@@ -124,3 +124,4 @@ Solved:
 -> Majority Element - leetcode easy problem
 -> Find lucky integer in an array - leetcode easy problem
 -> Count common words with one occurence - leetcode easy problem
+-> Kth distinct string in an array - leetcode easy problem
