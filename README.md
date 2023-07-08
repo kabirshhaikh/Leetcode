@@ -126,3 +126,4 @@ Solved:
 -> Count common words with one occurence - leetcode easy problem
 -> Kth distinct string in an array - leetcode easy problem
 -> First unique characters in a string - leetcode easy problem
+-> Maximum value of a string in an array - leetcode easy problem
