@@ -130,3 +130,4 @@ Solved:
 -> Check if a number has equal digit count and digit value - leetcode easy problem
 -> Find the difference - leetcode easy problem
 -> Valid Anagram - leetcode easy problem
+-> Number of unequal triplets in array - leetcode easy problem
