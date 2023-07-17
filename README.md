@@ -135,4 +135,5 @@ Solved:
 -> Greatest common divisor of strings - leetcode easy problem
 -> Uncommon words from two sentences - leetcode easy problem
 -> Keep multiplying found values by two - leetcode easy problem
+-> Intersection Of Multiple Arrays - leetcode easy problem
 
