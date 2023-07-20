@@ -138,4 +138,5 @@ Solved:
 -> Intersection Of Multiple Arrays - leetcode easy problem
 -> Minimum Index Sum of Two Lists - leetocde easy problem
 -> Isomorphic Strings - leetcode easy problem
+-> Missing Number - leetcode easy problem
 
