@@ -139,4 +139,5 @@ Solved:
 -> Minimum Index Sum of Two Lists - leetocde easy problem
 -> Isomorphic Strings - leetcode easy problem
 -> Missing Number - leetcode easy problem
+-> N-Repeated Element in Size 2N Array - leetcode easy problem
 
