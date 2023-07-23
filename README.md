@@ -141,4 +141,5 @@ Solved:
 -> Missing Number - leetcode easy problem
 -> N-Repeated Element in Size 2N Array - leetcode easy problem
 -> Set Mismatch - leetcode easy problem
+-> Two Sum 2 - Input Array is Sorted - leetcode medium problem 
 
