@@ -143,4 +143,5 @@ Solved:
 -> Set Mismatch - leetcode easy problem
 -> Two Sum 2 - Input Array is Sorted - leetcode medium problem 
 -> Valid Palindrome 2 - leetcode easy problem
+-> Capitalize the title - leetcode easy problem
 
