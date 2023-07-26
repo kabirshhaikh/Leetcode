@@ -144,5 +144,5 @@ Solved:
 -> Two Sum 2 - Input Array is Sorted - leetcode medium problem 
 -> Valid Palindrome 2 - leetcode easy problem
 -> Capitalize the title - leetcode easy problem
--> Index Pairds of a String - leetcode easy problem
+-> Index Pairs of a String - leetcode easy problem
 
