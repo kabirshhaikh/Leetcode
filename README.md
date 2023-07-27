@@ -145,4 +145,5 @@ Solved:
 -> Valid Palindrome 2 - leetcode easy problem
 -> Capitalize the title - leetcode easy problem
 -> Index Pairs of a String - leetcode easy problem
+-> Detect Capital - leetcode easy problem
 
