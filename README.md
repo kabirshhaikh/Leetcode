@@ -147,4 +147,3 @@ Solved:
 -> Index Pairs of a String - leetcode easy problem
 -> Detect Capital - leetcode easy problem
 -> Two out of three - leetcode easy problem
-
