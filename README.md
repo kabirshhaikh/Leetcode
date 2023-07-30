@@ -149,3 +149,4 @@ Solved:
 -> Two out of three - leetcode easy problem
 -> Three out of Two - leetcode easy problem
 -> Find words that can be formed by characters - leetocde easy problem
+-> Calculate digit sum of a string - leetcode easy problem
