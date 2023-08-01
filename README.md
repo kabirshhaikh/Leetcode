@@ -151,3 +151,4 @@ Solved:
 -> Find words that can be formed by characters - leetocde easy problem
 -> Calculate digit sum of a string - leetcode easy problem
 -> Reverse only letters - leetcode easy problem
+-> Sort array by parity 2 - leetcode easy problem
