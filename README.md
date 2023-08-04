@@ -154,3 +154,4 @@ Solved:
 -> Sort array by parity 2 - leetcode easy problem
 -> Minimum common value - leetcode easy problem
 -> Maximum enemy forts that can be captured - leetcode easy problem
+-> Shortest distance to a character - leetcode easy problem
