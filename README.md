@@ -156,3 +156,4 @@ Solved:
 -> Maximum enemy forts that can be captured - leetcode easy problem
 -> Shortest distance to a character - leetcode easy problem
 -> Rearrange array elements by sign - leetcode medium problem
+-> Find the duplicate number - leetcode medium problem
