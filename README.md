@@ -157,3 +157,4 @@ Solved:
 -> Shortest distance to a character - leetcode easy problem
 -> Rearrange array elements by sign - leetcode medium problem
 -> Find the duplicate number - leetcode medium problem
+-> Number of distinct averages - leetcode easy problem
