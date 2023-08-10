@@ -160,3 +160,4 @@ Solved:
 -> Number of distinct averages - leetcode easy problem
 -> Sort Colors - leetcode medium problem
 -> Camelcase Matching - leetcode medium problem
+-> Remove duplicates from sorted array - 2 - leetcode medium problem
