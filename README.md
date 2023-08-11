@@ -161,3 +161,4 @@ Solved:
 -> Sort Colors - leetcode medium problem
 -> Camelcase Matching - leetcode medium problem
 -> Remove duplicates from sorted array - 2 - leetcode medium problem
+-> Intersection Of Two Arrays:2 - leetcode easy problem
