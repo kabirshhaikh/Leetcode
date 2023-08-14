@@ -164,3 +164,4 @@ Solved:
 -> Intersection Of Two Arrays:2 - leetcode easy problem
 -> String Compression - leetcode medium problem
 -> Sort Transformed Array - leetcode medium problem
+-> Sum of Square Number - leetcode easy problem
