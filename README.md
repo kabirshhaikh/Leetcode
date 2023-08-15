@@ -165,3 +165,4 @@ Solved:
 -> String Compression - leetcode medium problem
 -> Sort Transformed Array - leetcode medium problem
 -> Sum of Square Number - leetcode medium problem
+-> Rotate Array - leetcode medium problem
