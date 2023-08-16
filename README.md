@@ -166,3 +166,4 @@ Solved:
 -> Sort Transformed Array - leetcode medium problem
 -> Sum of Square Number - leetcode medium problem
 -> Rotate Array - leetcode medium problem
+-> Find the maximum number of marked indiecs - leetcode medium problem
