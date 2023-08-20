@@ -170,3 +170,4 @@ Solved:
 -> Largest positive integer that exits with its negative - leetcode easy problem
 -> Strobogrammatic Number - leetcode easy problem
 -> Rows with maximum ones - leetcode easy problem
+-> Find maximum number of String Pairs - leetcode easy problem
