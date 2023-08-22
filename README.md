@@ -172,3 +172,4 @@ Solved:
 -> Rows with maximum ones - leetcode easy problem
 -> Find maximum number of String Pairs - leetcode easy problem
 -> Seperate the digits in an array - leetcode easy problem
+-> Check if a string is an acronym of words - leetcode easy problem
