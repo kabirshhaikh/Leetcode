@@ -175,3 +175,4 @@ Solved:
 -> Check if a string is an acronym of words - leetcode easy problem
 -> Number of employees who met the target - leetcode easy problem
 -> Count pairs whose sum is less than target - leetcode easy problem
+-> Maximum sum with exactly K Elements - leetcode easy problem
