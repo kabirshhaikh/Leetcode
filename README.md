@@ -177,3 +177,4 @@ Solved:
 -> Count pairs whose sum is less than target - leetcode easy problem
 -> Maximum sum with exactly K Elements - leetcode easy problem
 -> Sum of squares of special elements - leetcode easy problem
+-> Smallest Range 1 - leetcode easy problem
