@@ -176,3 +176,4 @@ Solved:
 -> Number of employees who met the target - leetcode easy problem
 -> Count pairs whose sum is less than target - leetcode easy problem
 -> Maximum sum with exactly K Elements - leetcode easy problem
+-> Sum of squares of special elements - leetcode easy problem
