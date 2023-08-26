@@ -178,3 +178,4 @@ Solved:
 -> Maximum sum with exactly K Elements - leetcode easy problem
 -> Sum of squares of special elements - leetcode easy problem
 -> Smallest Range 1 - leetcode easy problem
+-> Maximum units on a truck - leetcode easy problem
