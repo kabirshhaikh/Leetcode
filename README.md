@@ -180,3 +180,4 @@ Solved:
 -> Smallest Range 1 - leetcode easy problem
 -> Maximum units on a truck - leetcode easy problem
 -> Sum of digits in the minimum number - leetcode easy problem
+-> Find target indices after sorting array - leetcode easy problem
