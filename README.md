@@ -183,3 +183,4 @@ Solved:
 -> Find target indices after sorting array - leetcode easy problem
 -> Count the number of vowel string in range - leetcode easy problem
 -> Three sum closest - leetcode medium problem
+-> Find all duplicates in an array - leetcode medium problem
