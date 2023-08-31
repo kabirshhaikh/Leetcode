@@ -184,3 +184,4 @@ Solved:
 -> Count the number of vowel string in range - leetcode easy problem
 -> Three sum closest - leetcode medium problem
 -> Find all duplicates in an array - leetcode medium problem
+-> Check if it is a straight line - leetocde easy problem
