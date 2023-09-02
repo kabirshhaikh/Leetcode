@@ -187,3 +187,4 @@ Solved:
 -> Check if it is a straight line - leetocde easy problem
 -> Unique email addresses - leetcode easy problem
 -> How many apples can you put into the basket - leetcode easy problem
+-> Smallest index with equal value - leetcode easy problem
