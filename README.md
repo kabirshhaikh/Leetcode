@@ -186,3 +186,4 @@ Solved:
 -> Find all duplicates in an array - leetcode medium problem
 -> Check if it is a straight line - leetocde easy problem
 -> Unique email addresses - leetcode easy problem
+-> How many apples can you put into the basket - leetcode easy problem
