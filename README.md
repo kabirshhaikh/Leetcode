@@ -188,3 +188,4 @@ Solved:
 -> Unique email addresses - leetcode easy problem
 -> How many apples can you put into the basket - leetcode easy problem
 -> Smallest index with equal value - leetcode easy problem
+-> Sort even and odd indices independently - leetcode easy problem
