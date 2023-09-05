@@ -190,3 +190,4 @@ Solved:
 -> Smallest index with equal value - leetcode easy problem
 -> Sort even and odd indices independently - leetcode easy problem
 -> Minimum operations needed to make an array increasing - leetcode easy problem
+-> Array partition - leetcode easy problem
