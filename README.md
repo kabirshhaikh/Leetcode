@@ -193,3 +193,4 @@ Solved:
 -> Array partition - leetcode easy problem
 -> Percentage of letter in string - leetcode easy problem
 -> Greatest english letter in upper and lower case - leetcode easy problem
+-> Replace all digits with characters - leetcode easy problem
