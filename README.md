@@ -195,3 +195,4 @@ Solved:
 -> Greatest english letter in upper and lower case - leetcode easy problem
 -> Replace all digits with characters - leetcode easy problem
 -> FizzBuzz - leetcode easy problem
+-> String matching in an array - leetcode easy problem
