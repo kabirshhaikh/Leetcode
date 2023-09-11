@@ -196,3 +196,4 @@ Solved:
 -> Replace all digits with characters - leetcode easy problem
 -> FizzBuzz - leetcode easy problem
 -> String matching in an array - leetcode easy problem
+-> Maximum number of words you can type - leetcode easy problem
