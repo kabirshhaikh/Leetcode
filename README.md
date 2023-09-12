@@ -197,3 +197,4 @@ Solved:
 -> FizzBuzz - leetcode easy problem
 -> String matching in an array - leetcode easy problem
 -> Maximum number of words you can type - leetcode easy problem
+-> Find anagram mappings - leetcode easy problem
