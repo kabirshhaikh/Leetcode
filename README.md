@@ -198,3 +198,4 @@ Solved:
 -> String matching in an array - leetcode easy problem
 -> Maximum number of words you can type - leetcode easy problem
 -> Find anagram mappings - leetcode easy problem
+-> Count pairs of similar strings - leetcode easy problem
