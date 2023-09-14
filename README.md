@@ -199,3 +199,4 @@ Solved:
 -> Maximum number of words you can type - leetcode easy problem
 -> Find anagram mappings - leetcode easy problem
 -> Count pairs of similar strings - leetcode easy problem
+-> Counting Elements - leetcode easy problem
