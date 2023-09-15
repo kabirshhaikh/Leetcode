@@ -200,3 +200,4 @@ Solved:
 -> Find anagram mappings - leetcode easy problem
 -> Count pairs of similar strings - leetcode easy problem
 -> Counting Elements - leetcode easy problem
+-> Number of different integers in a string - leetcode easy problem
