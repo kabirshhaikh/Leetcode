@@ -201,3 +201,4 @@ Solved:
 -> Count pairs of similar strings - leetcode easy problem
 -> Counting Elements - leetcode easy problem
 -> Number of different integers in a string - leetcode easy problem
+-> Rank transform of an array - leetcode easy problem
