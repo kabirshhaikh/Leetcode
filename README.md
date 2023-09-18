@@ -203,3 +203,4 @@ Solved:
 -> Number of different integers in a string - leetcode easy problem
 -> Rank transform of an array - leetcode easy problem
 -> Minimize String Length - leetcode easy problem
+-> Make the string great - leetcode easy problem
