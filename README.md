@@ -204,3 +204,4 @@ Solved:
 -> Rank transform of an array - leetcode easy problem
 -> Minimize String Length - leetcode easy problem
 -> Make the string great - leetcode easy problem
+-> Reverse Integer - leetcode medium problem
