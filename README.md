@@ -205,3 +205,4 @@ Solved:
 -> Minimize String Length - leetcode easy problem
 -> Make the string great - leetcode easy problem
 -> Reverse Integer - leetcode medium problem
+-> Points that intersect with cars - leetcode easy problem
