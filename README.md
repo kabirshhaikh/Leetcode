@@ -207,3 +207,4 @@ Solved:
 -> Reverse Integer - leetcode medium problem
 -> Points that intersect with cars - leetcode easy problem
 -> Find all numbers disappeared in an array - leetcode easy problem
+-> Check if one string swap can make strings equal - leetcode easy problem
