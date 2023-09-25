@@ -210,3 +210,4 @@ Solved:
 -> Check if one string swap can make strings equal - leetcode easy problem
 -> Split strings by separators - leetcode easy problem
 -> Check if string is a prefix of array - leetcode easy problem
+-> Check if all A's appears before B's - leetcode easy problem
