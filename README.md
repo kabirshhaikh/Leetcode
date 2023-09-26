@@ -211,3 +211,4 @@ Solved:
 -> Split strings by separators - leetcode easy problem
 -> Check if string is a prefix of array - leetcode easy problem
 -> Check if all A's appears before B's - leetcode easy problem
+-> Second largest string in an array - leetcode easy problem
