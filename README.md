@@ -215,3 +215,4 @@ Solved:
 -> Check if numbers are ascending in a sentence - leetcode easy problem
 -> Divide a string into groups of size k - leetcode easy problem
 -> Add Digits - leetcode easy problem
+-> Number of segments in a string - leetcode easy problem
