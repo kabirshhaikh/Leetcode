@@ -216,3 +216,4 @@ Solved:
 -> Divide a string into groups of size k - leetcode easy problem
 -> Add Digits - leetcode easy problem
 -> Number of segments in a string - leetcode easy problem
+-> Third maximum number - leetcode easy problem
