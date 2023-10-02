@@ -217,3 +217,4 @@ Solved:
 -> Add Digits - leetcode easy problem
 -> Number of segments in a string - leetcode easy problem
 -> Third maximum number - leetcode easy problem
+-> Check if two strings are almost equivalent - leetcode easy problem
