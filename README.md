@@ -219,3 +219,4 @@ Solved:
 -> Third maximum number - leetcode easy problem
 -> Check if two strings are almost equivalent - leetcode easy problem
 -> Thousand Seprator - leetcode easy problem
+-> Removing stars from a string - leetcode medium problem
