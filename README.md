@@ -221,3 +221,4 @@ Solved:
 -> Thousand Seprator - leetcode easy problem
 -> Removing stars from a string - leetcode medium problem
 -> Roman to Integer - leetcode easy problem
+-> Maximum number of balloons - leetcode easy problem
