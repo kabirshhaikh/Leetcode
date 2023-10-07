@@ -222,3 +222,4 @@ Solved:
 -> Removing stars from a string - leetcode medium problem
 -> Roman to Integer - leetcode easy problem
 -> Maximum number of balloons - leetcode easy problem
+-> Most frequent number following key in an array - leetcode easy problem
