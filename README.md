@@ -224,3 +224,4 @@ Solved:
 -> Maximum number of balloons - leetcode easy problem
 -> Most frequent number following key in an array - leetcode easy problem
 -> Check if every row and column contains all numbers - leetcode easy problem
+-> Form smallest number from two digit array - leetcode easy problem 
