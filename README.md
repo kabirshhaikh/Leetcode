@@ -226,3 +226,4 @@ Solved:
 -> Check if every row and column contains all numbers - leetcode easy problem
 -> Form smallest number from two digit array - leetcode easy problem 
 -> Find players with zero or one losses - leetcode medium problem
+-> Backspace string compare - leetcode easy problem
