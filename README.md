@@ -228,3 +228,4 @@ Solved:
 -> Find players with zero or one losses - leetcode medium problem
 -> Backspace string compare - leetcode easy problem
 -> Maximum difference between increasing elements - leetcode easy problem
+-> Buddy Strings - leetcode easy problem
