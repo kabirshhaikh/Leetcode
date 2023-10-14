@@ -229,3 +229,4 @@ Solved:
 -> Backspace string compare - leetcode easy problem
 -> Maximum difference between increasing elements - leetcode easy problem
 -> Buddy Strings - leetcode easy problem
+-> Counting words with a given prefix - leetcode easy problem
