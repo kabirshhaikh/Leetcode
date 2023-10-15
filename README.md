@@ -230,3 +230,4 @@ Solved:
 -> Maximum difference between increasing elements - leetcode easy problem
 -> Buddy Strings - leetcode easy problem
 -> Counting words with a given prefix - leetcode easy problem
+-> Shortest completing word - leetcode easy problem
