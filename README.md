@@ -232,3 +232,4 @@ Solved:
 -> Counting words with a given prefix - leetcode easy problem
 -> Shortest completing word - leetcode easy problem
 -> Check if word equals summation of two words - leetcode easy problem
+-> Goat Latin - leetcode easy problem
