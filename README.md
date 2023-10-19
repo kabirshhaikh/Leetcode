@@ -234,3 +234,4 @@ Solved:
 -> Check if word equals summation of two words - leetcode easy problem
 -> Goat Latin - leetcode easy problem
 -> Remove duplicates from sorted list - leetcode easy problem
+-> Reverse Linked List - leetcode easy problem
