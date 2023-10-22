@@ -237,3 +237,4 @@ Solved:
 -> Reverse Linked List - leetcode easy problem
 -> Slowest Key - leetcode easy problem
 -> Occurences after bigram - leetcode easy problem
+-> Remove all adjacent duplicates in string - leetcode easy problem
