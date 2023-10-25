@@ -240,3 +240,4 @@ Solved:
 -> Remove all adjacent duplicates in string - leetcode easy problem
 -> Strong password checker 2 - leetcode easy problem
 -> 132 Pattern - leetcode medium problem
+-> Shortest word distance - leetcode easy problem
