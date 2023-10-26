@@ -241,3 +241,4 @@ Solved:
 -> Strong password checker 2 - leetcode easy problem
 -> 132 Pattern - leetcode medium problem
 -> Shortest word distance - leetcode easy problem
+-> Rings and rods - leetcode easy problem
