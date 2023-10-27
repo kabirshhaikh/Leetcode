@@ -242,3 +242,4 @@ Solved:
 -> 132 Pattern - leetcode medium problem
 -> Shortest word distance - leetcode easy problem
 -> Rings and rods - leetcode easy problem
+-> Largest odd number in string - leetcode easy problem
