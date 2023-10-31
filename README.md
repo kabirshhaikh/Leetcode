@@ -246,3 +246,4 @@ Solved:
 -> Maximum sum of distinct subarrays with length k - leetcode medium problem
 -> Valid Parentheses - leetcode easy problem
 -> Furthest point from origin - leetcode easy problem
+-> Find smallest letter greater than target - leecode easy problem
