@@ -247,3 +247,4 @@ Solved:
 -> Valid Parentheses - leetcode easy problem
 -> Furthest point from origin - leetcode easy problem
 -> Find smallest letter greater than target - leecode easy problem
+-> Add Two Integers - leetcode easy problem
