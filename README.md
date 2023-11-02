@@ -249,3 +249,4 @@ Solved:
 -> Find smallest letter greater than target - leecode easy problem
 -> Add Two Integers - leetcode easy problem
 -> Ransom Note - leetcode easy problem
+-> Length of last word - leetcode easy problem
