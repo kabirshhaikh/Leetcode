@@ -251,3 +251,4 @@ Solved:
 -> Ransom Note - leetcode easy problem
 -> Length of last word - leetcode easy problem
 -> Linked List Cycle - leetcode easy problem
+-> Simplify Path - leetcode medium problem
