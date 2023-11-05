@@ -253,3 +253,4 @@ Solved:
 -> Linked List Cycle - leetcode easy problem
 -> Simplify Path - leetcode medium problem
 -> Next greater element - leetcode easy problem
+-> Happy Number - leetcode easy problem
