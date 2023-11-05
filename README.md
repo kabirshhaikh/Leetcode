@@ -254,3 +254,4 @@ Solved:
 -> Simplify Path - leetcode medium problem
 -> Next greater element - leetcode easy problem
 -> Happy Number - leetcode easy problem
+-> Linked List methods that I practised by myself
