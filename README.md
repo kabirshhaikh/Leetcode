@@ -255,3 +255,4 @@ Solved:
 -> Next greater element - leetcode easy problem
 -> Happy Number - leetcode easy problem
 -> Linked List methods that I practised by myself
+-> Max Consecutive Ones - leetcode easy problem
