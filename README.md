@@ -256,3 +256,4 @@ Solved:
 -> Happy Number - leetcode easy problem
 -> Linked List methods that I practised by myself
 -> Max Consecutive Ones - leetcode easy problem
+-> Single Element In A Sorted Array - leetcode medium problem
