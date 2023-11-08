@@ -257,3 +257,4 @@ Solved:
 -> Linked List methods that I practised by myself
 -> Max Consecutive Ones - leetcode easy problem
 -> Single Element In A Sorted Array - leetcode medium problem
+-> Majority Element 2 - leetcode medium problem
