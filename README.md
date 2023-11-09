@@ -258,3 +258,4 @@ Solved:
 -> Max Consecutive Ones - leetcode easy problem
 -> Single Element In A Sorted Array - leetcode medium problem
 -> Majority Element 2 - leetcode medium problem
+-> Append characters to the string to make subsequence - leetcode medium problem
