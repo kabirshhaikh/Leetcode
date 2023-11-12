@@ -261,3 +261,4 @@ Solved:
 -> Append characters to the string to make subsequence - leetcode medium problem
 -> Add Binary - leetcode easy problem
 -> Power of Four - leetcode easy problem
+-> Minimum recolors to get K consecutibe black blocks - leetcode easy problem
