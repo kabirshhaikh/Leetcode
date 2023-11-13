@@ -262,3 +262,4 @@ Solved:
 -> Add Binary - leetcode easy problem
 -> Power of Four - leetcode easy problem
 -> Minimum recolors to get K consecutibe black blocks - leetcode easy problem
+-> Find K Length substrings with no repeated characters - leetcode medium problem
