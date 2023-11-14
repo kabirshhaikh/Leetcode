@@ -263,3 +263,4 @@ Solved:
 -> Power of Four - leetcode easy problem
 -> Minimum recolors to get K consecutibe black blocks - leetcode easy problem
 -> Find K Length substrings with no repeated characters - leetcode medium problem
+-> Number of steps to reduce a number to zero - leetcode easy problem
