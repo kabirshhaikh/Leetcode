@@ -267,3 +267,4 @@ Solved:
 -> Number of subarrays with bounded maximum - leetcode medium problem
 -> Special array with elements greater than or equal to x - leetcode easy problem
 -> Remove palindromic subsequence - leetcode easy problem
+-> Partition array according to given pivot - leetcode medium problem
