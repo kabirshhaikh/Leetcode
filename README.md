@@ -270,3 +270,4 @@ Solved:
 -> Partition array according to given pivot - leetcode medium problem
 -> The K Strongest values in an array - leetcode medium problem
 -> Delete middle node of a linked list - leetcode medium problem
+-> Sort List - leetcode medium problem
