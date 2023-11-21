@@ -271,3 +271,4 @@ Solved:
 -> The K Strongest values in an array - leetcode medium problem
 -> Delete middle node of a linked list - leetcode medium problem
 -> Sort List - leetcode medium problem
+-> Merge two sorted list - leetcode easy problem
