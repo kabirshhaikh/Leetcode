@@ -274,3 +274,4 @@ Solved:
 -> Merge two sorted list - leetcode easy problem
 -> Odd Even LinkedList - leetcode medium problem
 -> Count nice pairs in an array - leetcode medium problem
+-> Find mode in Binary Search Tree - leetcode easy problem
