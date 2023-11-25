@@ -275,3 +275,4 @@ Solved:
 -> Odd Even LinkedList - leetcode medium problem
 -> Count nice pairs in an array - leetcode medium problem
 -> Find mode in Binary Search Tree - leetcode easy problem
+-> Sum of absolute differences in a sorted array - leetcode medium problem
