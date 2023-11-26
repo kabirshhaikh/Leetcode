@@ -276,3 +276,4 @@ Solved:
 -> Count nice pairs in an array - leetcode medium problem
 -> Find mode in Binary Search Tree - leetcode easy problem
 -> Sum of absolute differences in a sorted array - leetcode medium problem
+-> Restore the array from adjacent paris - leetcode medium problem
