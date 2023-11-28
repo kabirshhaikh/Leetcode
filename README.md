@@ -278,3 +278,4 @@ Solved:
 -> Sum of absolute differences in a sorted array - leetcode medium problem
 -> Restore the array from adjacent paris - leetcode medium problem
 -> Remove duplicates from sorted list - 2 - leetcode medium problem
+-> Longest consecutive sequence - leetcode medium problem
