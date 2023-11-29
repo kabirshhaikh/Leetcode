@@ -279,3 +279,4 @@ Solved:
 -> Restore the array from adjacent paris - leetcode medium problem
 -> Remove duplicates from sorted list - 2 - leetcode medium problem
 -> Longest consecutive sequence - leetcode medium problem
+-> Number of 1 bits - leetcode easy problem
