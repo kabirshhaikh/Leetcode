@@ -281,3 +281,4 @@ Solved:
 -> Longest consecutive sequence - leetcode medium problem
 -> Number of 1 bits - leetcode easy problem
 -> Word Pattern - leetcode easy problem
+-> Find distinct difference array - leetcode easy problem
