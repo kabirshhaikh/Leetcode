@@ -282,3 +282,4 @@ Solved:
 -> Number of 1 bits - leetcode easy problem
 -> Word Pattern - leetcode easy problem
 -> Find distinct difference array - leetcode easy problem
+-> Insertion Sort List - leetcode medium problem
