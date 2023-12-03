@@ -283,3 +283,4 @@ Solved:
 -> Word Pattern - leetcode easy problem
 -> Find distinct difference array - leetcode easy problem
 -> Insertion Sort List - leetcode medium problem
+-> Swapping nodes in a linked list - leetcode medium problem
