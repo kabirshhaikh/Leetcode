@@ -284,3 +284,4 @@ Solved:
 -> Find distinct difference array - leetcode easy problem
 -> Insertion Sort List - leetcode medium problem
 -> Swapping nodes in a linked list - leetcode medium problem
+-> Largest three same digit number in a string - leetcode easy problem
