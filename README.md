@@ -286,3 +286,4 @@ Solved:
 -> Swapping nodes in a linked list - leetcode medium problem
 -> Largest three same digit number in a string - leetcode easy problem
 -> Count of matches in tournament - leetcode easy problem
+-> Three sum smaller - leetcode medium problem
