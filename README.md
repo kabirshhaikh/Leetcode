@@ -287,3 +287,4 @@ Solved:
 -> Largest three same digit number in a string - leetcode easy problem
 -> Count of matches in tournament - leetcode easy problem
 -> Three sum smaller - leetcode medium problem
+-> Minimize maximum pair sum in an array - leetcode easy problem
