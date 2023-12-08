@@ -288,3 +288,4 @@ Solved:
 -> Count of matches in tournament - leetcode easy problem
 -> Three sum smaller - leetcode medium problem
 -> Minimize maximum pair sum in an array - leetcode medium problem
+-> Neither minimum nor maximum - leetcode easy problem
