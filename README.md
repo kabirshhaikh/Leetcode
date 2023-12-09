@@ -289,3 +289,4 @@ Solved:
 -> Three sum smaller - leetcode medium problem
 -> Minimize maximum pair sum in an array - leetcode medium problem
 -> Neither minimum nor maximum - leetcode easy problem
+-> Find the peaks - leetcode easy problem
