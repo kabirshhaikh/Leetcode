@@ -290,3 +290,4 @@ Solved:
 -> Minimize maximum pair sum in an array - leetcode medium problem
 -> Neither minimum nor maximum - leetcode easy problem
 -> Find the peaks - leetcode easy problem
+-> Transpose Matrix - leetcode easy problem
