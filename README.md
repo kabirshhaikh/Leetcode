@@ -291,3 +291,4 @@ Solved:
 -> Neither minimum nor maximum - leetcode easy problem
 -> Find the peaks - leetcode easy problem
 -> Transpose Matrix - leetcode easy problem
+-> Elements appearing more than 25% in a sorted array - leetcode easy problem
