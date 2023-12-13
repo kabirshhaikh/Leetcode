@@ -292,3 +292,4 @@ Solved:
 -> Find the peaks - leetcode easy problem
 -> Transpose Matrix - leetcode easy problem
 -> Elements appearing more than 25% in a sorted array - leetcode easy problem
+-> Find indices with index and value difference 1 - leetcode easy problem
