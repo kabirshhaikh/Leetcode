@@ -295,3 +295,4 @@ Solved:
 -> Find indices with index and value difference 1 - leetcode easy problem
 -> Find words containing characters - leetcode easy problem
 -> Three consecutive odds - leetcode easy problem
+-> Largest number atleast twice of others - leetcode easy problem
