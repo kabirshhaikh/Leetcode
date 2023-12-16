@@ -296,3 +296,4 @@ Solved:
 -> Find words containing characters - leetcode easy problem
 -> Three consecutive odds - leetcode easy problem
 -> Largest number atleast twice of others - leetcode easy problem
+-> Maximum product of three numbers - leetcode easy problem
