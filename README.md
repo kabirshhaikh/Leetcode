@@ -297,3 +297,4 @@ Solved:
 -> Three consecutive odds - leetcode easy problem
 -> Largest number atleast twice of others - leetcode easy problem
 -> Maximum product of three numbers - leetcode easy problem
+-> Largest substring between two equal characters - leetcode easy problem
