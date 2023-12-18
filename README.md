@@ -298,3 +298,4 @@ Solved:
 -> Largest number atleast twice of others - leetcode easy problem
 -> Maximum product of three numbers - leetcode easy problem
 -> Largest substring between two equal characters - leetcode easy problem
+-> Reduction operations to make the array elements equal - leetcode medium problem
