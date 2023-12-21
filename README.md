@@ -302,3 +302,4 @@ Solved:
 -> Reduction operations to make the array elements equal - leetcode medium problem
 -> Take gifts from the richest pile - leetcode easy problem
 -> Buy two chocolates - leetcode easy problem
+-> Add to array form of integer - leetcode easy problem
