@@ -304,3 +304,4 @@ Solved:
 -> Buy two chocolates - leetcode easy problem
 -> Add to array form of integer - leetcode easy problem
 -> Lemonade Change - leetcode easy problem
+-> Average value of even numbers that are divisible by three - leetcode easy problem
