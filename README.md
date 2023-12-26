@@ -307,3 +307,4 @@ Solved:
 -> Average value of even numbers that are divisible by three - leetcode easy problem
 -> Minimum changes to make alternating binary string - leetcode easy problem
 -> Odd String Difference - leetcode easy problem
+-> Search in rotated sorted array - leetcode medium problem
