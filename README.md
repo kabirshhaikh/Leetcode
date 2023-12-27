@@ -308,3 +308,4 @@ Solved:
 -> Minimum changes to make alternating binary string - leetcode easy problem
 -> Odd String Difference - leetcode easy problem
 -> Search in rotated sorted array - leetcode medium problem
+-> Minimum time to make rope colorful - leetcode medium problem
