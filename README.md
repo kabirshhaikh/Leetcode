@@ -309,3 +309,4 @@ Solved:
 -> Odd String Difference - leetcode easy problem
 -> Search in rotated sorted array - leetcode medium problem
 -> Minimum time to make rope colorful - leetcode medium problem
+-> Sentence Similarity - leetcode easy problem
