@@ -311,3 +311,4 @@ Solved:
 -> Minimum time to make rope colorful - leetcode medium problem
 -> Sentence Similarity - leetcode easy problem
 -> Check if an array is consecutive - leetcode easy problem
+-> Number of pairs of string with concatenation equal to target - leetcode medium problem
