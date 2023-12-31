@@ -312,3 +312,4 @@ Solved:
 -> Sentence Similarity - leetcode easy problem
 -> Check if an array is consecutive - leetcode easy problem
 -> Number of pairs of string with concatenation equal to target - leetcode medium problem
+-> Find missing and repeated values - leetcode easy problem
