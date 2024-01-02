@@ -315,3 +315,4 @@ Solved:
 -> Find missing and repeated values - leetcode easy problem
 -> Decode XORed array - leetcode easy problem
 -> Assign Cookies - leetcode easy problem
+-> Convert an array into 2d array with conditions - leetcode medium problem
