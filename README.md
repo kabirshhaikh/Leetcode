@@ -316,3 +316,4 @@ Solved:
 -> Decode XORed array - leetcode easy problem
 -> Assign Cookies - leetcode easy problem
 -> Convert an array into 2d array with conditions - leetcode medium problem
+-> Apply operations to array - leetcode easy problem
