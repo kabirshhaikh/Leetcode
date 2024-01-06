@@ -319,3 +319,4 @@ Solved:
 -> Apply operations to array - leetcode easy problem
 -> Average salary excluding the minimum and maximum salary - leetcode easy problem
 -> Missing number in arithemetic progression - leetcode easy problem
+-> Monotonic Array - leetcode easy problem
