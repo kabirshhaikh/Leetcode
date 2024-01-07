@@ -320,3 +320,4 @@ Solved:
 -> Average salary excluding the minimum and maximum salary - leetcode easy problem
 -> Missing number in arithemetic progression - leetcode easy problem
 -> Monotonic Array - leetcode easy problem
+-> Find all K - Distant Indices in an array - leetcode easy problem
