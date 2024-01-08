@@ -321,3 +321,4 @@ Solved:
 -> Missing number in arithemetic progression - leetcode easy problem
 -> Monotonic Array - leetcode easy problem
 -> Find all K - Distant Indices in an array - leetcode easy problem
+-> Minimum distance to the target element - leetcode easy problem
