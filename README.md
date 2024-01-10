@@ -323,3 +323,4 @@ Solved:
 -> Find all K - Distant Indices in an array - leetcode easy problem
 -> Minimum distance to the target element - leetcode easy problem
 -> Find the maximum divisibility score - leetcode easy problem
+-> Valid mountain array - leetcode easy problem
