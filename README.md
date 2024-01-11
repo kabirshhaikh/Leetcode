@@ -324,3 +324,4 @@ Solved:
 -> Minimum distance to the target element - leetcode easy problem
 -> Find the maximum divisibility score - leetcode easy problem
 -> Valid mountain array - leetcode easy problem
+-> Max pair sum in an array - leetcode easy problem
