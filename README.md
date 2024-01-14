@@ -327,3 +327,4 @@ Solved:
 -> Max pair sum in an array - leetcode easy problem
 -> Maximize greatness of an array - leetcode medium problem
 -> Positions of large group - leetcode easy problem
+-> Student attendance record - leetcode easy problem
