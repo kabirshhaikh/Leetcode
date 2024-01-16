@@ -329,3 +329,4 @@ Solved:
 -> Positions of large group - leetcode easy problem
 -> Student attendance record - leetcode easy problem
 -> Number of days between two dates - leetcode easy problem
+-> Maximum repeating substring - leetcode easy problem
