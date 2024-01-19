@@ -332,3 +332,4 @@ Solved:
 -> Maximum repeating substring - leetcode easy problem
 -> Number of valid words in a sentence - leetcode easy problem
 -> Count special quadruplets - leetcode easy problem
+-> Subarrays distinct element sum of squares 1 - leetcode easy problem
