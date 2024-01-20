@@ -333,3 +333,4 @@ Solved:
 -> Number of valid words in a sentence - leetcode easy problem
 -> Count special quadruplets - leetcode easy problem
 -> Subarrays distinct element sum of squares 1 - leetcode easy problem
+-> Power of two - leetcode easy problem
