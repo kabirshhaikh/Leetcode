@@ -335,3 +335,4 @@ Solved:
 -> Subarrays distinct element sum of squares 1 - leetcode easy problem
 -> Power of two - leetcode easy problem
 -> Count elements with strictly smaller and greater elements - leetcode easy problem
+-> Determine if two events have conflict - leetcode easy problem
