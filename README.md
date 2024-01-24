@@ -337,3 +337,4 @@ Solved:
 -> Count elements with strictly smaller and greater elements - leetcode easy problem
 -> Determine if two events have conflict - leetcode easy problem
 -> Find first and last position of element in sorted array - leetcode medium problem
+-> Number of divisible triplet sums - leetcode medium problem
