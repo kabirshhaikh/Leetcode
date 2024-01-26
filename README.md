@@ -339,3 +339,4 @@ Solved:
 -> Find first and last position of element in sorted array - leetcode medium problem
 -> Number of divisible triplet sums - leetcode medium problem
 -> Baseball Game - leetcode easy problem
+-> Median of two sorted arrays - leetcode hard problem
