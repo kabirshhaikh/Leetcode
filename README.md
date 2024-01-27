@@ -340,3 +340,4 @@ Solved:
 -> Number of divisible triplet sums - leetcode medium problem
 -> Baseball Game - leetcode easy problem
 -> Median of two sorted arrays - leetcode hard problem
+-> Partition array into two arrays to minimize sum difference - leetcode hard problem
