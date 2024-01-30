@@ -343,3 +343,4 @@ Solved:
 -> Partition array into two arrays to minimize sum difference - leetcode hard problem
 -> Reverse words in a string 2 - leetcode medium problem
 -> Matrix diagonal sum - leetcode easy problem
+-> Remove all occurrences of a substring - leetcode medium problem
