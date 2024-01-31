@@ -344,3 +344,4 @@ Solved:
 -> Reverse words in a string 2 - leetcode medium problem
 -> Matrix diagonal sum - leetcode easy problem
 -> Remove all occurrences of a substring - leetcode medium problem
+-> Longest palindromic substring - leetcode medium problem
