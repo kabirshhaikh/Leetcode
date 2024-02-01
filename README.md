@@ -345,3 +345,4 @@ Solved:
 -> Matrix diagonal sum - leetcode easy problem
 -> Remove all occurrences of a substring - leetcode medium problem
 -> Longest palindromic substring - leetcode medium problem
+-> Divide the array into arrays with max difference - leetcode medium problem
