@@ -346,3 +346,4 @@ Solved:
 -> Remove all occurrences of a substring - leetcode medium problem
 -> Longest palindromic substring - leetcode medium problem
 -> Divide the array into arrays with max difference - leetcode medium problem
+-> Next greater element 2 - leetcode medium problem
