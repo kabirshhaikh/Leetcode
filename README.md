@@ -349,3 +349,4 @@ Solved:
 -> Next greater element 2 - leetcode medium problem
 -> Four Sum - leetcode medium problem
 -> Merge Intervals - leetcode medium problem
+-> Array transformation - leetcode easy problem
