@@ -351,3 +351,4 @@ Solved:
 -> Merge Intervals - leetcode medium problem
 -> Array transformation - leetcode easy problem
 -> Divide two integers - leetcode medium problem
+-> Minimum cost to move chips to the same position - leetcode easy problem
