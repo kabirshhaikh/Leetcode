@@ -353,3 +353,4 @@ Solved:
 -> Divide two integers - leetcode medium problem
 -> Minimum cost to move chips to the same position - leetcode easy problem
 -> Lucky number in a matrix - leetcode easy problem
+-> The employee that worked on the longest task - leetcode easy problem
