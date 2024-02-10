@@ -354,3 +354,4 @@ Solved:
 -> Minimum cost to move chips to the same position - leetcode easy problem
 -> Lucky number in a matrix - leetcode easy problem
 -> The employee that worked on the longest task - leetcode easy problem
+-> Mean of array after removing some elements - leetcode easy problem
