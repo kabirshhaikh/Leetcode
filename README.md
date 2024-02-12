@@ -356,3 +356,4 @@ Solved:
 -> The employee that worked on the longest task - leetcode easy problem
 -> Mean of array after removing some elements - leetcode easy problem
 -> Check if a number is majority element in a sorted array - leetcode easy problem
+-> Minimum operation to collect elements - leetcode easy problem
