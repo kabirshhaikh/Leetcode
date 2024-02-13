@@ -357,3 +357,4 @@ Solved:
 -> Mean of array after removing some elements - leetcode easy problem
 -> Check if a number is majority element in a sorted array - leetcode easy problem
 -> Minimum operation to collect elements - leetcode easy problem
+-> Check if all the integers in a range are covered - leetcode easy problem
