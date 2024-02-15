@@ -359,3 +359,4 @@ Solved:
 -> Minimum operation to collect elements - leetcode easy problem
 -> Check if all the integers in a range are covered - leetcode easy problem
 -> Minimum right shifts to sort the array - leetcode easy problem
+-> Minimum sum of mountain triplets - leetcode easy problem
