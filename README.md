@@ -361,3 +361,4 @@ Solved:
 -> Minimum right shifts to sort the array - leetcode easy problem
 -> Minimum sum of mountain triplets - leetcode easy problem
 -> Maximum gap - leetcode medium problem
+-> Furthest building you can reach - leetcode medium problem
