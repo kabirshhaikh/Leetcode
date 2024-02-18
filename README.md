@@ -362,3 +362,4 @@ Solved:
 -> Minimum sum of mountain triplets - leetcode easy problem
 -> Maximum gap - leetcode medium problem
 -> Furthest building you can reach - leetcode medium problem
+-> The K weakest rows in a matrix - leetcode easy problem
