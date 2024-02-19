@@ -363,3 +363,4 @@ Solved:
 -> Maximum gap - leetcode medium problem
 -> Furthest building you can reach - leetcode medium problem
 -> The K weakest rows in a matrix - leetcode easy problem
+-> Find pivot index - leetcode easy problem
