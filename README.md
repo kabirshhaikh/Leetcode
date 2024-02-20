@@ -364,3 +364,4 @@ Solved:
 -> Furthest building you can reach - leetcode medium problem
 -> The K weakest rows in a matrix - leetcode easy problem
 -> Find pivot index - leetcode easy problem
+-> Merge similar items - leetcode easy problem
