@@ -1,4 +1,3 @@
-
 In this repo, I have made different branches named on the leetcode problems that I have submitted.
 Solved:
 -> Concatenation of Array - easy leetcode problem
@@ -365,3 +364,4 @@ Solved:
 -> The K weakest rows in a matrix - leetcode easy problem
 -> Find pivot index - leetcode easy problem
 -> Merge similar items - leetcode easy problem
+-> Two furthest houses with different colors - leetcode easy problem
