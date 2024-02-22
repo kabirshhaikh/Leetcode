@@ -365,3 +365,4 @@ Solved:
 -> Find pivot index - leetcode easy problem
 -> Merge similar items - leetcode easy problem
 -> Two furthest houses with different colors - leetcode easy problem
+-> Valid perfect square - leetcode easy problem
