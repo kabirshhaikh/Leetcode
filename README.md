@@ -366,3 +366,4 @@ Solved:
 -> Merge similar items - leetcode easy problem
 -> Two furthest houses with different colors - leetcode easy problem
 -> Valid perfect square - leetcode easy problem
+-> Self dividing numbers - leetcode easy problem
