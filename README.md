@@ -367,3 +367,4 @@ Solved:
 -> Two furthest houses with different colors - leetcode easy problem
 -> Valid perfect square - leetcode easy problem
 -> Self dividing numbers - leetcode easy problem
+-> Finding three digit even numbers - leetcode easy problem
