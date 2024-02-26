@@ -369,3 +369,4 @@ Solved:
 -> Self dividing numbers - leetcode easy problem
 -> Finding three digit even numbers - leetcode easy problem
 -> Smallest even multiple - leetcode easy problem
+-> Maximum value of an ordered triplet 1 - leetcode easy problem
