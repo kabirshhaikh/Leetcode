@@ -370,3 +370,4 @@ Solved:
 -> Finding three digit even numbers - leetcode easy problem
 -> Smallest even multiple - leetcode easy problem
 -> Maximum value of an ordered triplet 1 - leetcode easy problem
+-> Count elements with maximum frequency - leetcode easy problem
