@@ -372,3 +372,4 @@ Solved:
 -> Maximum value of an ordered triplet 1 - leetcode easy problem
 -> Count elements with maximum frequency - leetcode easy problem
 -> Fixed Points - leetcode easy problem
+-> Check if matrix is X-Matrix - leetcode easy problem
