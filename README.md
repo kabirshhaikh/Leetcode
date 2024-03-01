@@ -373,3 +373,4 @@ Solved:
 -> Count elements with maximum frequency - leetcode easy problem
 -> Fixed Points - leetcode easy problem
 -> Check if matrix is X-Matrix - leetcode easy problem
+-> Merge two 2D Arrays by Summing Values - leetcode easy problem
