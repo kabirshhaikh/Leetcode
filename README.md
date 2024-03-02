@@ -374,3 +374,4 @@ Solved:
 -> Fixed Points - leetcode easy problem
 -> Check if matrix is X-Matrix - leetcode easy problem
 -> Merge two 2D Arrays by Summing Values - leetcode easy problem
+-> Count pairs in two arrays - leetcode medium problem
