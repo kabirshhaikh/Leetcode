@@ -375,3 +375,4 @@ Solved:
 -> Check if matrix is X-Matrix - leetcode easy problem
 -> Merge two 2D Arrays by Summing Values - leetcode easy problem
 -> Count pairs in two arrays - leetcode medium problem
+-> Count prefix and suffix pairs 1 - leetcode easy problem
