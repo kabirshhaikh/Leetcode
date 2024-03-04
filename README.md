@@ -376,3 +376,4 @@ Solved:
 -> Merge two 2D Arrays by Summing Values - leetcode easy problem
 -> Count pairs in two arrays - leetcode medium problem
 -> Count prefix and suffix pairs 1 - leetcode easy problem
+-> Final prices with a special discount in a shop - leetcode easy problem
