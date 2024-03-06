@@ -377,3 +377,4 @@ Solved:
 -> Count pairs in two arrays - leetcode medium problem
 -> Count prefix and suffix pairs 1 - leetcode easy problem
 -> Final prices with a special discount in a shop - leetcode easy problem
+-> Check if binary string has at most one segment of ones - leetcode easy problem
