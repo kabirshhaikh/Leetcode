@@ -379,3 +379,4 @@ Solved:
 -> Final prices with a special discount in a shop - leetcode easy problem
 -> Check if binary string has at most one segment of ones - leetcode easy problem
 -> Consecutive characters - leetcode easy problem
+-> Number of changing keys - leetcode easy problem
