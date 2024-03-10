@@ -381,3 +381,4 @@ Solved:
 -> Consecutive characters - leetcode easy problem
 -> Number of changing keys - leetcode easy problem
 -> Linked List Frequency - leetcode easy problem
+-> Convert binary number in a linkedlist to integer - leetcode easy problem
