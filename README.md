@@ -382,3 +382,4 @@ Solved:
 -> Number of changing keys - leetcode easy problem
 -> Linked List Frequency - leetcode easy problem
 -> Convert binary number in a linkedlist to integer - leetcode easy problem
+-> Find closest number to zero - leetcode easy problem
