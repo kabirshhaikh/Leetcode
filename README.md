@@ -384,3 +384,4 @@ Solved:
 -> Convert binary number in a linkedlist to integer - leetcode easy problem
 -> Find closest number to zero - leetcode easy problem
 -> Rotate string - leetcode easy problem
+-> Longer contiguous segment of ones than zero - leetcode easy problem
