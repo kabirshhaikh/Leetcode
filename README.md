@@ -385,3 +385,4 @@ Solved:
 -> Find closest number to zero - leetcode easy problem
 -> Rotate string - leetcode easy problem
 -> Longer contiguous segment of ones than zero - leetcode easy problem
+-> Delete characters to make fancy string - leetcode easy problem
