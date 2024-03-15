@@ -386,3 +386,4 @@ Solved:
 -> Rotate string - leetcode easy problem
 -> Longer contiguous segment of ones than zero - leetcode easy problem
 -> Delete characters to make fancy string - leetcode easy problem
+-> Make two arrays equal by reversing subarrays - leetcode easy problem
