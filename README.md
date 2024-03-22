@@ -393,3 +393,4 @@ Solved:
 -> Convert the temperature - leetcode easy problem
 -> Count the digits that divide a number - leetcode easy problem
 -> Find the sum of encrypted integers - leetcode easy problem
+-> Sort integers by the number of 1 bits - leetcode easy problem
