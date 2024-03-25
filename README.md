@@ -396,3 +396,4 @@ Solved:
 -> Sort integers by the number of 1 bits - leetcode easy problem
 -> Find smallest common element in all rows - leetcode medium problem
 -> Check if all ones are atleast k places away - leetcode easy problem
+-> Buildings with an ocean view - leetcode medium problem
