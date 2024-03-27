@@ -398,3 +398,4 @@ Solved:
 -> Check if all ones are atleast k places away - leetcode easy problem
 -> Buildings with an ocean view - leetcode medium problem
 -> Count number with unique digits 2 - leetcode easy problem
+-> Day of the week - leetcode easy problem
