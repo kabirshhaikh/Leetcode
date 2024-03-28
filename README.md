@@ -399,3 +399,4 @@ Solved:
 -> Buildings with an ocean view - leetcode medium problem
 -> Count number with unique digits 2 - leetcode easy problem
 -> Day of the week - leetcode easy problem
+-> Length of longest subarray with at most K frequency - leetcode medium problem
