@@ -400,3 +400,4 @@ Solved:
 -> Count number with unique digits 2 - leetcode easy problem
 -> Day of the week - leetcode easy problem
 -> Length of longest subarray with at most K frequency - leetcode medium problem
+-> Divisible and non divisible sums difference - leetcode easy problem
