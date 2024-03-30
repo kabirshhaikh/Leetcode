@@ -401,3 +401,4 @@ Solved:
 -> Day of the week - leetcode easy problem
 -> Length of longest subarray with at most K frequency - leetcode medium problem
 -> Divisible and non divisible sums difference - leetcode easy problem
+-> Maximum 69 number - leetcode easy problem
