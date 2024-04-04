@@ -406,3 +406,4 @@ Solved:
 -> Maximum number of operations with same score 1 - leetcode esay problem
 -> Type of triangle - leetcode easy problem
 -> Word search - leetcode medium problem
+-> Split the array - leetcode easy problem
