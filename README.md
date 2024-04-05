@@ -407,3 +407,4 @@ Solved:
 -> Type of triangle - leetcode easy problem
 -> Word search - leetcode medium problem
 -> Split the array - leetcode easy problem
+-> Replace all question marks to avoid consecutive repeating characters - leetcode easy problem
