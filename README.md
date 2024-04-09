@@ -411,3 +411,4 @@ Solved:
 -> Count complete subarrays in an array - leetcode medium problem
 -> Minimum time difference - leetcode medium problem
 -> Single number 3 - leetcode medium problem
+-> Minimum operations to exceed threshold value 1 - leetcode easy problem
