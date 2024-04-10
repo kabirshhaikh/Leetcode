@@ -412,3 +412,4 @@ Solved:
 -> Minimum time difference - leetcode medium problem
 -> Single number 3 - leetcode medium problem
 -> Minimum operations to exceed threshold value 1 - leetcode easy problem
+-> Sum of values at indices with K set bits - leetcode easy problem
