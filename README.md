@@ -415,3 +415,4 @@ Solved:
 -> Sum of values at indices with K set bits - leetcode easy problem
 -> Minimum number game - leetcode easy problem
 -> Kth largest element in an array - leetcode medium problem
+-> Can make arthmetic progression from sequence - leetcode easy problem
