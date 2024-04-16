@@ -417,3 +417,4 @@ Solved:
 -> Kth largest element in an array - leetcode medium problem
 -> Can make arthmetic progression from sequence - leetcode easy problem
 -> Make array zero by subtrcting equal amounts - leetcode easy problem
+-> Count tested devices after test operations - leetcode easy problem
