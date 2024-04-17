@@ -418,3 +418,4 @@ Solved:
 -> Can make arthmetic progression from sequence - leetcode easy problem
 -> Make array zero by subtrcting equal amounts - leetcode easy problem
 -> Count tested devices after test operations - leetcode easy problem
+-> Maximum ascending subarray sum - leetcode easy problem
