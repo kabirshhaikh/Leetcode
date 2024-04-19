@@ -420,3 +420,4 @@ Solved:
 -> Count tested devices after test operations - leetcode easy problem
 -> Maximum ascending subarray sum - leetcode easy problem
 -> Single number 2 - leetcode medium problem
+-> Score of a string - leetcode easy problem
