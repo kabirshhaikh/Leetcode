@@ -422,3 +422,4 @@ Solved:
 -> Single number 2 - leetcode medium problem
 -> Score of a string - leetcode easy problem
 -> Counting bits - leetcode easy problem
+-> Hamming distance - leetcode easy problem
