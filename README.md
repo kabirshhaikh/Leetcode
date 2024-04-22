@@ -423,3 +423,4 @@ Solved:
 -> Score of a string - leetcode easy problem
 -> Counting bits - leetcode easy problem
 -> Hamming distance - leetcode easy problem
+-> Minimum moves to convert a string - leetcode easy problem
