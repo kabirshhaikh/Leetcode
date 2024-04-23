@@ -424,3 +424,4 @@ Solved:
 -> Counting bits - leetcode easy problem
 -> Hamming distance - leetcode easy problem
 -> Minimum moves to convert a string - leetcode easy problem
+-> Number of even and odd bits - leetcode easy problem
