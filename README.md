@@ -426,3 +426,4 @@ Solved:
 -> Minimum moves to convert a string - leetcode easy problem
 -> Number of even and odd bits - leetcode easy problem
 -> Number complement - leetcode easy problem
+-> Prime number of set bits in binary representation - leetcode easy problem
