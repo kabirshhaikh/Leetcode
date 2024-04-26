@@ -427,3 +427,4 @@ Solved:
 -> Number of even and odd bits - leetcode easy problem
 -> Number complement - leetcode easy problem
 -> Prime number of set bits in binary representation - leetcode easy problem
+-> Number of beautiful pairs - leetcode easy problem
