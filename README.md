@@ -429,3 +429,4 @@ Solved:
 -> Prime number of set bits in binary representation - leetcode easy problem
 -> Number of beautiful pairs - leetcode easy problem
 -> Binary number with alternating bits - leetcode easy problem
+-> Count hills and valleys in an array - leetcode easy problem
