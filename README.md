@@ -432,3 +432,4 @@ Solved:
 -> Count hills and valleys in an array - leetcode easy problem
 -> Check distances between same letters - leetcode easy problem
 -> Xor operations in an array - leetcode easy problem
+-> Palindrome permutation - leetcode easy problem
