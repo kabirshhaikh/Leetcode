@@ -433,3 +433,4 @@ Solved:
 -> Check distances between same letters - leetcode easy problem
 -> Xor operations in an array - leetcode easy problem
 -> Palindrome permutation - leetcode easy problem
+-> Sum of all subset XOR totals - leetcode easy problem
