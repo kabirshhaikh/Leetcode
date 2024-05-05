@@ -436,3 +436,4 @@ Solved:
 -> Sum of all subset XOR totals - leetcode easy problem
 -> Compare version numbers - leetcode medium problem
 -> Boats to save life - leetcode medium problem
+-> Total hamming distance - leetcode medium problem
