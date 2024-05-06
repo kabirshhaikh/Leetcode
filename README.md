@@ -437,3 +437,4 @@ Solved:
 -> Compare version numbers - leetcode medium problem
 -> Boats to save life - leetcode medium problem
 -> Total hamming distance - leetcode medium problem
+-> Count number of distinct integers after reverse operations - leetcode medium problem
