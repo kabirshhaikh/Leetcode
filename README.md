@@ -439,3 +439,4 @@ Solved:
 -> Total hamming distance - leetcode medium problem
 -> Count number of distinct integers after reverse operations - leetcode medium problem
 -> Strictly palindromic number - leetcode medium problem
+-> Relative Ranks - leetcode easy problem
