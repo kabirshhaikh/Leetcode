@@ -441,3 +441,4 @@ Solved:
 -> Strictly palindromic number - leetcode medium problem
 -> Relative Ranks -> leetcode easy problem
 -> Maximum happiness of selected children - leetcode medium problem
+-> Minimum bit flips to convert a number - leetcode easy problem
