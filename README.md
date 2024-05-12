@@ -443,3 +443,4 @@ Solved:
 -> Maximum happiness of selected children - leetcode medium problem
 -> Minimum bit flips to convert a number - leetcode easy problem
 -> Long pressed name - leetcode easy problem
+-> Complement of base 10 integer - leetcode easy problem
