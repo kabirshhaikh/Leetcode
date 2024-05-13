@@ -444,3 +444,4 @@ Solved:
 -> Minimum bit flips to convert a number - leetcode easy problem
 -> Long pressed name - leetcode easy problem
 -> Complement of base 10 integer - leetcode easy problem
+-> Binary gap - leetcode easy problem
