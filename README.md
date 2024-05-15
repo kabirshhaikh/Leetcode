@@ -446,3 +446,4 @@ Solved:
 -> Complement of base 10 integer - leetcode easy problem
 -> Binary gap - leetcode easy problem
 -> Binary Search - leetcode easy problem
+-> Permutation difference between two strings - leetcode easy problem
