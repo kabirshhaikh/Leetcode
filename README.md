@@ -447,3 +447,4 @@ Solved:
 -> Binary gap - leetcode easy problem
 -> Binary Search - leetcode easy problem
 -> Permutation difference between two strings - leetcode easy problem
+-> Shortest distance to target string in a circular array - leetcode easy problem
