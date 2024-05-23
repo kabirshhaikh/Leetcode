@@ -452,3 +452,4 @@ Solved:
 -> Increasing decreasing string - leetcode easy problem
 -> Sort feature by popularity - leetcode medium problem
 -> Subsets - leetcode medium problem
+-> The number of beautiful subsets - leetcode medium problem
