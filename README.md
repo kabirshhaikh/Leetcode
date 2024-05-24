@@ -453,3 +453,4 @@ Solved:
 -> Sort feature by popularity - leetcode medium problem
 -> Subsets - leetcode medium problem
 -> The number of beautiful subsets - leetcode medium problem
+-> Longest continous increasing subsequence - leetcode easy problem
