@@ -456,4 +456,5 @@ Solved:
 -> Longest continous increasing subsequence - leetcode easy problem
 -> Reverse Bits - leetcode easy problem
 -> Valid Word Square - leetcode easy problem
--> "Minimum cost to connect sticks - leetcode medium problem
+-> Minimum cost to connect sticks - leetcode medium problem
+-> Sum of even numbers after queries - leetcode medium problem
