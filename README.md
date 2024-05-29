@@ -458,3 +458,4 @@ Solved:
 -> Valid Word Square - leetcode easy problem
 -> Minimum cost to connect sticks - leetcode medium problem
 -> Sum of even numbers after queries - leetcode medium problem
+-> Number of steps to reduce a number in binary representation to one - leetcode medium problem
