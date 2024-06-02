@@ -461,3 +461,4 @@ Solved:
 -> Number of steps to reduce a number in binary representation to one - leetcode medium problem
 -> Ways to make a fair array - leetcode medium problem
 -> Sort an array - leetcode medium problem
+-> Distance between bus stops - leetcode easy problem
