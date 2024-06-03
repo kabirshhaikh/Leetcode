@@ -462,3 +462,4 @@ Solved:
 -> Ways to make a fair array - leetcode medium problem
 -> Sort an array - leetcode medium problem
 -> Distance between bus stops - leetcode easy problem
+-> Sum of beauty of all sub strings - leetcode medium problem
