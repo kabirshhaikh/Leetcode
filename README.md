@@ -465,3 +465,4 @@ Solved:
 -> Sum of beauty of all sub strings - leetcode medium problem
 -> Sender with largest word count - leetcode medium problem
 -> Subarray sums divisible by K - leetcode medium problem
+-> Power of three - leetcode easy problem
