@@ -466,3 +466,4 @@ Solved:
 -> Sender with largest word count - leetcode medium problem
 -> Subarray sums divisible by K - leetcode medium problem
 -> Power of three - leetcode easy problem
+-> Minimum difference between highest and lowest of K scores - leetcode easy problem
