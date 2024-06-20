@@ -467,3 +467,4 @@ Solved:
 -> Subarray sums divisible by K - leetcode medium problem
 -> Power of three - leetcode easy problem
 -> Minimum difference between highest and lowest of K scores - leetcode easy problem
+-> Bitwise OR of adjacent elements - leetcode easy problem
