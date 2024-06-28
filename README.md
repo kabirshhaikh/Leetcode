@@ -469,3 +469,4 @@ Solved:
 -> Minimum difference between highest and lowest of K scores - leetcode easy problem
 -> Bitwise OR of adjacent elements - leetcode easy problem
 -> Clear Digits - leetcode easy problem
+-> Redistribute characters to make all strings equal - leetcode easy problem
