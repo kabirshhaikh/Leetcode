@@ -471,3 +471,4 @@ Solved:
 -> Clear Digits - leetcode easy problem
 -> Redistribute characters to make all strings equal - leetcode easy problem
 -> Longest subarray of ones after deleting one element - leetcode medium problem
+-> Max consecutive ones 3 - leetcode medium problem
