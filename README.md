@@ -473,3 +473,4 @@ Solved:
 -> Longest subarray of ones after deleting one element - leetcode medium problem
 -> Max consecutive ones 3 - leetcode medium problem
 -> Sqrt(x) - leetcode easy problem
+-> Binary tree inorder traversal - leetcode easy problem
