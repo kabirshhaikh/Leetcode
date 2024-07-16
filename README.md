@@ -474,3 +474,4 @@ Solved:
 -> Max consecutive ones 3 - leetcode medium problem
 -> Sqrt(x) - leetcode easy problem
 -> Binary tree inorder traversal - leetcode easy problem
+-> Range sum of BST - leetcode easy problem
