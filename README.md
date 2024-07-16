@@ -475,3 +475,4 @@ Solved:
 -> Sqrt(x) - leetcode easy problem
 -> Binary tree inorder traversal - leetcode easy problem
 -> Range sum of BST - leetcode easy problem
+-> Search in a binary search tree - leetcode easy problem
