@@ -477,3 +477,4 @@ Solved:
 -> Range sum of BST - leetcode easy problem
 -> Search in a binary search tree - leetcode easy problem
 -> Root equals sum of children - leetcode easy problem
+-> Maximum length of a substring with two occurrences - leetcode easy problem
