@@ -479,3 +479,4 @@ Solved:
 -> Root equals sum of children - leetcode easy problem
 -> Maximum length of a substring with two occurrences - leetcode easy problem
 -> Container with most water - leetcode medium problem
+-> Remove nth node from end of list - leetcode medium problem
