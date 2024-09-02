@@ -483,3 +483,4 @@ Solved:
 -> Alternating groups 1 - leetcode easy problem
 -> Sort the jumbled numbers - leetcode medium problem
 -> Find minimum operations to make all elements divisible by three - leetcode easy problem
+-> Max consecutive ones 2 - leetcode medium problem
