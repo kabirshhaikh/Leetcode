@@ -485,3 +485,4 @@ Solved:
 -> Find minimum operations to make all elements divisible by three - leetcode easy problem
 -> Max consecutive ones 2 - leetcode medium problem
 -> Find the student tha will replace the chalk - leetcode medium problem
+-> Replace elements with greatest on right side - leetcode easy problem
