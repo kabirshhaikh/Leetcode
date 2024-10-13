@@ -487,3 +487,4 @@ Solved:
 -> Find the student tha will replace the chalk - leetcode medium problem
 -> Replace elements with greatest on right side - leetcode easy problem
 -> Find beautiful indices in the given array 1 - leetcode medium problem
+-> Longest substring with at most two distinct characters - leetcode medium problem
