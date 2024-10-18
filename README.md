@@ -489,3 +489,4 @@ Solved:
 -> Find beautiful indices in the given array 1 - leetcode medium problem
 -> Longest substring with at most two distinct characters - leetcode medium problem
 -> Calculate money in leetcode bank - leetcode easy problem
+-> Minimum string length after removing substring - leetcode easy problem
