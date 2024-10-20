@@ -491,3 +491,4 @@ Solved:
 -> Calculate money in leetcode bank - leetcode easy problem
 -> Minimum string length after removing substring - leetcode easy problem
 -> Check if array pairs are divisible by k - leetcode medium problem
+-> Summary ranges - leetcode easy problem
