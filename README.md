@@ -494,3 +494,4 @@ Solved:
 -> Summary ranges - leetcode easy problem
 -> Diffuse the bomb - leetcode easy problem
 -> Climb stairs - leetcode easy problem
+-> Fibonacci number - leetcode easy problem
