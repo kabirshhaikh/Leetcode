@@ -493,3 +493,4 @@ Solved:
 -> Check if array pairs are divisible by k - leetcode medium problem
 -> Summary ranges - leetcode easy problem
 -> Diffuse the bomb - leetcode easy problem
+-> Climb stairs - leetcode easy problem
