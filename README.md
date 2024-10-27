@@ -496,3 +496,4 @@ Solved:
 -> Climb stairs - leetcode easy problem
 -> Fibonacci number - leetcode easy problem
 -> Missing ranges - leetcode easy problem
+-> Degree of an array - leetcode easy problem
