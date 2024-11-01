@@ -497,3 +497,4 @@ Solved:
 -> Fibonacci number - leetcode easy problem
 -> Missing ranges - leetcode easy problem
 -> Degree of an array - leetcode easy problem
+-> Binary Tree Preorder traversal - leetcode easy problem
