@@ -500,3 +500,4 @@ Solved:
 -> Binary Tree Preorder traversal - leetcode easy problem
 -> Binary tree postorder traversal - leetcode easy problem
 -> Maximum depth of binary tree - leetcode easy problem
+-> Same Tree - leetcode easy problem
