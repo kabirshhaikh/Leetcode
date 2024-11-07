@@ -502,3 +502,4 @@ Solved:
 -> Maximum depth of binary tree - leetcode easy problem
 -> Same Tree - leetcode easy problem
 -> Valid Palindrome 4 - leetcode medium problem
+-> Number of lines to write a string - leetcode easy problem
