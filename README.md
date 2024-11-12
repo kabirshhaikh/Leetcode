@@ -504,3 +504,4 @@ Solved:
 -> Valid Palindrome 4 - leetcode medium problem
 -> Number of lines to write a string - leetcode easy problem
 -> X of a kind in deck of cards - leetcode easy problem
+-> Most beautiful item for each query - leetcode medium problem
