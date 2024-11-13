@@ -505,3 +505,4 @@ Solved:
 -> Number of lines to write a string - leetcode easy problem
 -> X of a kind in deck of cards - leetcode easy problem
 -> Most beautiful item for each query - leetcode medium problem
+-> Count the fair pairs - leetcode medium problem
