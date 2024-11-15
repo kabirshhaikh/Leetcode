@@ -506,3 +506,4 @@ Solved:
 -> X of a kind in deck of cards - leetcode easy problem
 -> Most beautiful item for each query - leetcode medium problem
 -> Count the fair pairs - leetcode medium problem
+-> Max number of K-Sum Paris - leetcode medium problem
