@@ -507,3 +507,4 @@ Solved:
 -> Most beautiful item for each query - leetcode medium problem
 -> Count the fair pairs - leetcode medium problem
 -> Max number of K-Sum Paris - leetcode medium problem
+-> Max consecutive ones 111 - leetcode medium problem
