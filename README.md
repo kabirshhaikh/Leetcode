@@ -509,3 +509,4 @@ Solved:
 -> Max number of K-Sum Paris - leetcode medium problem
 -> Max consecutive ones 111 - leetcode medium problem
 -> Take K of each characters from left and right - leetcode medium problem
+-> Find the power of k - size subarrays 1 - leetcode medium problem
