@@ -512,3 +512,4 @@ Solved:
 -> Find the power of k - size subarrays 1 - leetcode medium problem
 -> Binary subarrays with sum - leetcode medium problem
 -> Minimum window substring - leetcode hard problem
+-> Adding spaces to a string - leetcode medium problem
