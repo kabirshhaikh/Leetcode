@@ -514,3 +514,4 @@ Solved:
 -> Minimum window substring - leetcode hard problem
 -> Adding spaces to a string - leetcode medium problem
 -> Make string a subsequence using cyclic increments - leetcode medium problem
+-> Special array 2 - leetcode medium problem
