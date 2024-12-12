@@ -517,3 +517,4 @@ Solved:
 -> Special array 2 - leetcode medium problem
 -> One edit distance - leetcode medium problem
 -> Minimum average of smallest and largest elements - leetcode easy problem
+-> Delete columns to make sorted - leetcode easy problem
