@@ -518,3 +518,4 @@ Solved:
 -> One edit distance - leetcode medium problem
 -> Minimum average of smallest and largest elements - leetcode easy problem
 -> Delete columns to make sorted - leetcode easy problem
+-> Final array state after K Multiplication operations 1 - leetcode easy problem
