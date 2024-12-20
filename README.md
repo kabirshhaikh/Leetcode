@@ -521,3 +521,4 @@ Solved:
 -> Final array state after K Multiplication operations 1 - leetcode easy problem
 -> Rmove one element to make the array strictly increasing - leetcode easy problem
 -> Day of the year - leetcode easy problem
+-> Check balanced string - leetcode easy problem
