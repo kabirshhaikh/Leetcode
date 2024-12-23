@@ -522,3 +522,4 @@ Solved:
 -> Rmove one element to make the array strictly increasing - leetcode easy problem
 -> Day of the year - leetcode easy problem
 -> Check balanced string - leetcode easy problem
+-> High five - leetcode easy problem
