@@ -523,3 +523,4 @@ Solved:
 -> Day of the year - leetcode easy problem
 -> Check balanced string - leetcode easy problem
 -> High five - leetcode easy problem
+-> Count vowel strings in ranges - leetcode medium problem
