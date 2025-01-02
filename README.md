@@ -526,3 +526,4 @@ Solved:
 -> Count vowel strings in ranges - leetcode medium problem
 -> Maximum score after splitting a string - leetcode easy problem
 -> Repeated DNA sequences - leetcode medium problem
+-> Longest substring with at-most K distinct characters - leetcode medium problem
