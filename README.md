@@ -524,3 +524,4 @@ Solved:
 -> Check balanced string - leetcode easy problem
 -> High five - leetcode easy problem
 -> Count vowel strings in ranges - leetcode medium problem
+-> Maximum score after splitting a string - leetcode easy problem
