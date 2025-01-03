@@ -527,3 +527,4 @@ Solved:
 -> Maximum score after splitting a string - leetcode easy problem
 -> Repeated DNA sequences - leetcode medium problem
 -> Longest substring with at-most K distinct characters - leetcode medium problem
+-> Delete the middle node of a linked list - leetcode medium problem
