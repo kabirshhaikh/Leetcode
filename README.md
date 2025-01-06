@@ -528,3 +528,4 @@ Solved:
 -> Repeated DNA sequences - leetcode medium problem
 -> Longest substring with at-most K distinct characters - leetcode medium problem
 -> Delete the middle node of a linked list - leetcode medium problem
+-> Arithmethic slices - leetcode medium problem
