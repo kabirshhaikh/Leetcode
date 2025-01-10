@@ -531,3 +531,4 @@ Solved:
 -> Arithmethic slices - leetcode medium problem
 -> 4 sum - 2 - leetcode medium problem
 -> Word Subsets - leetcode medium problem
+-> Meeting Rooms - leetcode easy problem
