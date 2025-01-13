@@ -532,3 +532,4 @@ Solved:
 -> 4 sum - 2 - leetcode medium problem
 -> Word Subsets - leetcode medium problem
 -> Meeting Rooms - leetcode easy problem
+-> Binary tree paths - leetcode easy problem
