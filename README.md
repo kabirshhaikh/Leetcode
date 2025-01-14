@@ -533,3 +533,4 @@ Solved:
 -> Word Subsets - leetcode medium problem
 -> Meeting Rooms - leetcode easy problem
 -> Binary tree paths - leetcode easy problem
+-> Find the prefix common array of two arrays - leetcode medium problem
