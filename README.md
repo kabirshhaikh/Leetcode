@@ -536,3 +536,4 @@ Solved:
 -> Find the prefix common array of two arrays - leetcode medium problem
 -> Minimize XOR - leetcode medium problem
 -> Neighbouring Bitwise XOR - leetcode medium problem
+-> Bitwise XOR of all pairings - leetcode medium problem
