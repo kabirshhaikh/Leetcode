@@ -535,3 +535,4 @@ Solved:
 -> Binary tree paths - leetcode easy problem
 -> Find the prefix common array of two arrays - leetcode medium problem
 -> Minimize XOR - leetcode medium problem
+-> Neighbouring Bitwise XOR - leetcode medium problem
