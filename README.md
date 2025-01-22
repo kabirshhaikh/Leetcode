@@ -537,3 +537,4 @@ Solved:
 -> Minimize XOR - leetcode medium problem
 -> Neighbouring Bitwise XOR - leetcode medium problem
 -> Bitwise XOR of all pairings - leetcode medium problem
+-> Lonely Pixel 1 - leetcode medium problem
