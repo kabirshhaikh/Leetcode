@@ -538,3 +538,4 @@ Solved:
 -> Neighbouring Bitwise XOR - leetcode medium problem
 -> Bitwise XOR of all pairings - leetcode medium problem
 -> Lonely Pixel 1 - leetcode medium problem
+-> Count servers that communicate - leetcode medium problem
