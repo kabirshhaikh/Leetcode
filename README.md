@@ -541,3 +541,4 @@ Solved:
 -> Count servers that communicate - leetcode medium problem
 -> Maximum distance in arrays - leetcode medium problem
 -> Confusing Number - leetcode easy problem
+-> Perform string shifts - leetcode easy problem
