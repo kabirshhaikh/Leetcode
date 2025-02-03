@@ -546,3 +546,4 @@ Solved:
 -> Single row keyboard - leetcode easy problem
 -> Maximum product of word lengths - leetcode medium problem
 -> Longest strictly increasing or strictly decreasing subarray - leetcode easy problem
+-> Special Array 1 - leetcode easy problem
