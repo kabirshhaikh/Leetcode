@@ -545,3 +545,4 @@ Solved:
 -> Shortes way to form string - leetcode medium problem
 -> Single row keyboard - leetcode easy problem
 -> Maximum product of word lengths - leetcode medium problem
+-> Longest strictly increasing or strictly decreasing subarray - leetcode easy problem
