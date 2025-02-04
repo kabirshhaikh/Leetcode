@@ -547,3 +547,4 @@ Solved:
 -> Maximum product of word lengths - leetcode medium problem
 -> Longest strictly increasing or strictly decreasing subarray - leetcode easy problem
 -> Special Array 1 - leetcode easy problem
+-> Arranging coins - leetcode easy problem
