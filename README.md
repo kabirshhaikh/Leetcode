@@ -549,3 +549,4 @@ Solved:
 -> Special Array 1 - leetcode easy problem
 -> Arranging coins - leetcode easy problem
 -> Set matrix zeroes - leetcode medium problem
+-> Repeated substring pattern - leetcode easy problem
