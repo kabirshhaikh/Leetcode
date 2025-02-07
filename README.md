@@ -550,3 +550,4 @@ Solved:
 -> Arranging coins - leetcode easy problem
 -> Set matrix zeroes - leetcode medium problem
 -> Repeated substring pattern - leetcode easy problem
+-> Find number of distinct colors among the balls - leetcode medium problem
