@@ -551,3 +551,4 @@ Solved:
 -> Set matrix zeroes - leetcode medium problem
 -> Repeated substring pattern - leetcode easy problem
 -> Find number of distinct colors among the balls - leetcode medium problem
+-> Count number of bad pairs - leetcode medium problem
