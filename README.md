@@ -552,3 +552,4 @@ Solved:
 -> Repeated substring pattern - leetcode easy problem
 -> Find number of distinct colors among the balls - leetcode medium problem
 -> Count number of bad pairs - leetcode medium problem
+-> Design a number container system - leetcode medium problem
