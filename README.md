@@ -558,3 +558,4 @@ Solved:
 -> Minimum operations to exceed threshold value 2 - leetcode medium problem
 -> Product of last K numbers - leetcode medium problem
 -> Check if array is good - leetcode easy problem
+-> Number of students doing homework at given time - leetcode easy problem
