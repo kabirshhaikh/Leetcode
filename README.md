@@ -559,3 +559,4 @@ Solved:
 -> Product of last K numbers - leetcode medium problem
 -> Check if array is good - leetcode easy problem
 -> Number of students doing homework at given time - leetcode easy problem
+-> Last Visited Integer - leetcode easy problem
