@@ -560,3 +560,4 @@ Solved:
 -> Check if array is good - leetcode easy problem
 -> Number of students doing homework at given time - leetcode easy problem
 -> Last Visited Integer - leetcode easy problem
+-> Find champion 1 - leetcode easy problem
