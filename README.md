@@ -561,3 +561,4 @@ Solved:
 -> Number of students doing homework at given time - leetcode easy problem
 -> Last Visited Integer - leetcode easy problem
 -> Find champion 1 - leetcode easy problem
+-> Find the width of columns of a grid - leetcode easy problem
