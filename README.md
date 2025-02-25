@@ -562,3 +562,4 @@ Solved:
 -> Last Visited Integer - leetcode easy problem
 -> Find champion 1 - leetcode easy problem
 -> Find the width of columns of a grid - leetcode easy problem
+-> Find the number of good pairs - leetcode easy problem
