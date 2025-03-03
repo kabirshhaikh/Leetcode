@@ -565,3 +565,4 @@ Solved:
 -> Find the number of good pairs - leetcode easy problem
 -> Minimum positive sum subarray - leetcode easy problem
 -> Find number of winning players - leetcode easy problem
+-> Sum of consecutive subarrays - leetcode medium problem
