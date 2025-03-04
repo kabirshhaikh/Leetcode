@@ -566,3 +566,4 @@ Solved:
 -> Minimum positive sum subarray - leetcode easy problem
 -> Find number of winning players - leetcode easy problem
 -> Sum of consecutive subarrays - leetcode medium problem
+-> Check if number is a sum of power of three - leetcode medium problem
