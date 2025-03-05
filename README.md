@@ -567,3 +567,4 @@ Solved:
 -> Find number of winning players - leetcode easy problem
 -> Sum of consecutive subarrays - leetcode medium problem
 -> Check if number is a sum of power of three - leetcode medium problem
+-> Make three strings equal - leetcode easy problem
