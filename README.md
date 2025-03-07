@@ -569,3 +569,4 @@ Solved:
 -> Check if number is a sum of power of three - leetcode medium problem
 -> Make three strings equal - leetcode easy problem
 -> Find common characters - leetcode easy problem
+-> Closest prime numbers in range - leetcode medium problem
