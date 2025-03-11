@@ -570,3 +570,4 @@ Solved:
 -> Make three strings equal - leetcode easy problem
 -> Find common characters - leetcode easy problem
 -> Closest prime numbers in range - leetcode medium problem
+-> Count of substrings containing every vowels and K consonants 2 - leetcode medium problem
