@@ -572,3 +572,4 @@ Solved:
 -> Closest prime numbers in range - leetcode medium problem
 -> Count of substrings containing every vowels and K consonants 2 - leetcode medium problem
 -> Number of substrings containing all three characters - leetcode medium problem
+-> Zero array transformation - leetcode medium problem
