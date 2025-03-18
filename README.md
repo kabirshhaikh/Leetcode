@@ -574,3 +574,4 @@ Solved:
 -> Number of substrings containing all three characters - leetcode medium problem
 -> Zero array transformation - leetcode medium problem
 -> Determine the winner of a bowling game - leetcode easy problem
+-> Longest nice subarray - leetcode medium problem
