@@ -576,3 +576,4 @@ Solved:
 -> Determine the winner of a bowling game - leetcode easy problem
 -> Longest nice subarray - leetcode medium problem
 -> Count days without meetings - leetcode medium problem
+-> Partition labels - leetcode medium problem
