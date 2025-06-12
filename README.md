@@ -577,3 +577,4 @@ Solved:
 -> Longest nice subarray - leetcode medium problem
 -> Count days without meetings - leetcode medium problem
 -> Partition labels - leetcode medium problem
+-> Substring of size three with distinct characters - leetcode easy problem
