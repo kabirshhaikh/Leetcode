@@ -578,3 +578,4 @@ Solved:
 -> Count days without meetings - leetcode medium problem
 -> Partition labels - leetcode medium problem
 -> Substring of size three with distinct characters - leetcode easy problem
+-> Minimum difference between highest and lowest of K Scores version 2 - leetcode easy problem
