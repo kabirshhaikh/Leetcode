@@ -582,3 +582,4 @@ Solved:
 -> Longest Substring with at least K repeating characters - leetcode medium problem
 -> Divide array into arrays with max difference - leetcode medium problem
 -> Count substrings that satisfy K-Constraints 1 - leetcode easy problem
+-> Longest even odd subarray with threshold - leetcode easy problem
