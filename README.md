@@ -581,3 +581,4 @@ Solved:
 -> Minimum difference between highest and lowest of K Scores version 2 - leetcode easy problem
 -> Longest Substring with at least K repeating characters - leetcode medium problem
 -> Divide array into arrays with max difference - leetcode medium problem
+-> Count substrings that satisfy K-Constraints 1 - leetcode easy problem
