@@ -583,3 +583,4 @@ Solved:
 -> Divide array into arrays with max difference - leetcode medium problem
 -> Count substrings that satisfy K-Constraints 1 - leetcode easy problem
 -> Longest even odd subarray with threshold - leetcode easy problem
+-> Minimum operations to make a binary array elements equal to one 1 - leetcode medium problem
