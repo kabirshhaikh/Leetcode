@@ -586,3 +586,4 @@ Solved:
 -> Minimum operations to make a binary array elements equal to one 1 - leetcode medium problem
 -> Count subarrays where max element appears at least k times - leetcode medium problem
 -> Count zero request servers - leetcode medium problem
+-> Find two non overlapping sub arrays each with target sum - leetcode medium problem
