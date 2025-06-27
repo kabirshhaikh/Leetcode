@@ -588,3 +588,4 @@ Solved:
 -> Count zero request servers - leetcode medium problem
 -> Find two non overlapping sub arrays each with target sum - leetcode medium problem
 -> Longest substring of vowels in order - leetcode medium problem
+-> Minimum size subarray in infinite array - leetcode medium problem
