@@ -597,3 +597,4 @@ Solved:
 -> Remove Nth node from end of list 2 - leetcode  medium problem
 -> Maximum matching of players with trainers - leetcode medium problem
 -> Valid Word - leetcode easy problem
+-> Copy list with random pointer - leetcode medium problem
