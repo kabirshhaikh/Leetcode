@@ -598,3 +598,4 @@ Solved:
 -> Maximum matching of players with trainers - leetcode medium problem
 -> Valid Word - leetcode easy problem
 -> Copy list with random pointer - leetcode medium problem
+-> Koko eating bananas - leetcode medium problem
