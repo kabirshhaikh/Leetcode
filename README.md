@@ -602,3 +602,4 @@ Solved:
 -> Reorder the list - leetcode medium problem
 -> Container with most water 2 - leetcode medium problem
 -> Maximum Erasure Value - leetcode medium problem 
+-> Maximum score from removing substrings - leetcode medium problem
