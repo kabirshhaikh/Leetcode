@@ -607,3 +607,4 @@ Solved:
 -> Maximum unique subarray sum after deletion - leetcode easy problem
 -> Find original array from doubled array - leetcode medium problem
 -> Longest subarray with maximum bitwise AND - leetcode medium problem
+-> Single threaded cpu - leetcode medium problem
