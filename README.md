@@ -608,3 +608,4 @@ Solved:
 -> Find original array from doubled array - leetcode medium problem
 -> Longest subarray with maximum bitwise AND - leetcode medium problem
 -> Single threaded cpu - leetcode medium problem
+-> Tuple with same product - leetcode medium problem
