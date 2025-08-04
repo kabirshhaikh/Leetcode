@@ -609,3 +609,4 @@ Solved:
 -> Longest subarray with maximum bitwise AND - leetcode medium problem
 -> Single threaded cpu - leetcode medium problem
 -> Tuple with same product - leetcode medium problem
+-> Fruits into baskets - leetcode medium problem
