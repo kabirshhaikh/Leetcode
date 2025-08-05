@@ -610,3 +610,4 @@ Solved:
 -> Single threaded cpu - leetcode medium problem
 -> Tuple with same product - leetcode medium problem
 -> Fruits into baskets - leetcode medium problem
+-> Fruits into baskets 2 - leetcode easy problem
