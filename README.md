@@ -612,3 +612,4 @@ Solved:
 -> Fruits into baskets - leetcode medium problem
 -> Fruits into baskets 2 - leetcode easy problem
 -> Substring with concatenation of all words - leetcode hard problem
+-> Shortest word distance 3 - leetcode medium problem
