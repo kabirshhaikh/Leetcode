@@ -613,3 +613,4 @@ Solved:
 -> Fruits into baskets 2 - leetcode easy problem
 -> Substring with concatenation of all words - leetcode hard problem
 -> Shortest word distance 3 - leetcode medium problem
+-> Find the smallest common element in all rows - leetcode medium problem
