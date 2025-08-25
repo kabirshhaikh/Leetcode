@@ -617,3 +617,4 @@ Solved:
 -> Number of zero-filled subarrays - leetcode medium problem
 -> Find the k-th character in the string game - leetcode easy problem
 -> Fair candy swap - leetcode easy problem
+-> Diagonal Traversal - leetcode medium problem
