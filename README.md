@@ -621,3 +621,4 @@ Solved:
 -> Maximum area of longest diagonal rectangle - leetcode easy problem
 -> Wiggle Sort - leetcode medium problem
 -> Find most frequent vowel and consonant - leetcode easy problem
+-> Vowels game in a string - leetcode medium problem
