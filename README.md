@@ -622,3 +622,4 @@ Solved:
 -> Wiggle Sort - leetcode medium problem
 -> Find most frequent vowel and consonant - leetcode easy problem
 -> Vowels game in a string - leetcode medium problem
+-> Replace non co-prime numbers in array - leetcode hard problem
