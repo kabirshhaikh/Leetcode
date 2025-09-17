@@ -623,3 +623,4 @@ Solved:
 -> Find most frequent vowel and consonant - leetcode easy problem
 -> Vowels game in a string - leetcode medium problem
 -> Replace non co-prime numbers in array - leetcode hard problem
+-> Vowel Spellchecker - leetcode medium problem
