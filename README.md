@@ -624,3 +624,4 @@ Solved:
 -> Vowels game in a string - leetcode medium problem
 -> Replace non co-prime numbers in array - leetcode hard problem
 -> Vowel Spellchecker - leetcode medium problem
+-> Sort vowels in a string - leetcode medium problem
