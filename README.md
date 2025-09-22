@@ -625,3 +625,4 @@ Solved:
 -> Replace non co-prime numbers in array - leetcode hard problem
 -> Vowel Spellchecker - leetcode medium problem
 -> Sort vowels in a string - leetcode medium problem
+-> Maximum average pass ratio - leetcode medium problem
