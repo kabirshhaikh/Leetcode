@@ -628,3 +628,4 @@ Solved:
 -> Maximum average pass ratio - leetcode medium problem
 -> Find closest person - leetcode easy problem
 -> Fraction to recurring decimal - leetcode medium problem
+-> Water bottles - leetcode easy problem
