@@ -630,3 +630,4 @@ Solved:
 -> Fraction to recurring decimal - leetcode medium problem
 -> Water bottles - leetcode easy problem
 -> Search a 2D Matrix - leetcode medium problem
+-> The two sneaky numbers of digitville - leetcode easy problem
