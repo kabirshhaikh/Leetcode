@@ -632,3 +632,4 @@ Solved:
 -> Search a 2D Matrix - leetcode medium problem
 -> The two sneaky numbers of digitville - leetcode easy problem
 -> Delete nodes from linked list present in array - leetcode medium problem
+-> Find X-Sum of all K-Long Subarrays 1 - leetcode easy problem
