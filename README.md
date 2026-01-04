@@ -635,3 +635,4 @@ Solved:
 -> Find X-Sum of all K-Long Subarrays 1 - leetcode easy problem
 -> Count operations to obtain zero - leetcode easy problem
 -> Coupon code validator - leetcode easy problem
+-> Four divisors - leetcode medium problem
