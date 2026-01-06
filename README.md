@@ -638,3 +638,4 @@ Solved:
 -> Four divisors - leetcode medium problem
 -> Find all anagrams in a string - leetcode medium problem
 -> Number of sub-arrays of size k and average greater than or equal to threshold - leetcode medium problem
+-> Least number of unique integers after K removals - leetcode medium problem
