@@ -642,3 +642,4 @@ Solved:
 -> Longest repeating character replacement - leetcode medium problem
 -> Group Anagrams - leetcode medium problem
 -> Time based key-value pair - leetcode medium problem
+-> Range sum query - immutable - leetcode easy problem
