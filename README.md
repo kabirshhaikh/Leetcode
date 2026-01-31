@@ -645,3 +645,4 @@ Solved:
 -> Range sum query - immutable - leetcode easy problem
 -> H-Index - leetcode medium problem
 -> Gas station - leetcode medium problem
+-> Design a leaderboard - leetcode medium problem
