@@ -647,3 +647,4 @@ Solved:
 -> Gas station - leetcode medium problem
 -> Design a leaderboard - leetcode medium problem
 -> Divide an array into subarrays with minimum cost 1 - leetcode easy problem
+-> Trionic Array 1 - leetcode easy problem
