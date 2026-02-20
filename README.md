@@ -649,3 +649,4 @@ Solved:
 -> Divide an array into subarrays with minimum cost 1 - leetcode easy problem
 -> Trionic Array 1 - leetcode easy problem
 -> Longest balanced subarray 1 - leetcode easy problem
+-> Count binary substrings - leetcode easy problem
