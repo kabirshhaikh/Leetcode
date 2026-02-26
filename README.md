@@ -650,3 +650,4 @@ Solved:
 -> Trionic Array 1 - leetcode easy problem
 -> Longest balanced subarray 1 - leetcode easy problem
 -> Count binary substrings - leetcode easy problem
+-> Simple bank system - leetcode medium problem
