@@ -651,3 +651,4 @@ Solved:
 -> Longest balanced subarray 1 - leetcode easy problem
 -> Count binary substrings - leetcode easy problem
 -> Simple bank system - leetcode medium problem
+-> Design a food rating system - leetcode medium problem
