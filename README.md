@@ -652,3 +652,4 @@ Solved:
 -> Count binary substrings - leetcode easy problem
 -> Simple bank system - leetcode medium problem
 -> Design a food rating system - leetcode medium problem
+-> Find the length of the longest common prefix - leetcode medium problem
