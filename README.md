@@ -654,3 +654,4 @@ Solved:
 -> Design a food rating system - leetcode medium problem
 -> Find the length of the longest common prefix - leetcode medium problem
 -> Count the number of special characters 2 - leetcode medium problem
+-> Count the number of special characters 1 - leetcode easy problem
