@@ -653,3 +653,4 @@ Solved:
 -> Simple bank system - leetcode medium problem
 -> Design a food rating system - leetcode medium problem
 -> Find the length of the longest common prefix - leetcode medium problem
+-> Count the number of special characters 2 - leetcode medium problem
