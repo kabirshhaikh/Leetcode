@@ -656,3 +656,4 @@ Solved:
 -> Count the number of special characters 2 - leetcode medium problem
 -> Count the number of special characters 1 - leetcode easy problem
 -> Minimum element after replacement with digit sum - leetcode easy problem
+-> Alert using same key-card three or more times in a one hour period - leetcode medium problem
