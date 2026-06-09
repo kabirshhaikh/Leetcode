@@ -658,4 +658,4 @@ Solved:
 -> Minimum element after replacement with digit sum - leetcode easy problem
 -> Alert using same key-card three or more times in a one hour period - leetcode medium problem
 -> Minimum moves to reach target score - leetcode medium problem
--> Number of divisible substrings - leetcode medium problem
+-> Number of Divisible substrings - leetcode medium problem
