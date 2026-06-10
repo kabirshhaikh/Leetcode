@@ -659,3 +659,4 @@ Solved:
 -> Alert using same key-card three or more times in a one hour period - leetcode medium problem
 -> Minimum moves to reach target score - leetcode medium problem
 -> Number of Divisible substrings - leetcode medium problem
+-> Largest Magic Square - leetcode medium problem
