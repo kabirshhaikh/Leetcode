@@ -665,3 +665,4 @@ Solved:
 -> Time needed to rearrange binary string - leetcode medium problem
 -> Insert Interval - leetcode medium problem
 -> Design hit counter - leetcode medium problem
+-> Kth smallest subarray sum - leetcode medium problem
