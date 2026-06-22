@@ -666,3 +666,4 @@ Solved:
 -> Insert Interval - leetcode medium problem
 -> Design hit counter - leetcode medium problem
 -> Kth smallest subarray sum - leetcode medium problem
+-> Guess number higher or lower - leetcode easy problem
