@@ -669,3 +669,4 @@ Solved:
 -> Guess number higher or lower - leetcode easy problem
 -> Successful paris of spells and potions - leetcode medium problem
 -> Split array largest sum - leetcode hard problem
+-> Maximum element after decreasing and rearranging - leetcode medium problem
