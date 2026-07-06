@@ -673,3 +673,4 @@ Solved:
 -> Count complete tree nodes - leetcode easy problem
 -> Path sum 2 - leetcode medium problem
 -> Combination Sum - leetcode medium problem
+-> Remove covered intervals - leetcode medium problem
