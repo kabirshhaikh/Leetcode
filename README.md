@@ -674,3 +674,4 @@ Solved:
 -> Path sum 2 - leetcode medium problem
 -> Combination Sum - leetcode medium problem
 -> Remove covered intervals - leetcode medium problem
+-> Binary Tree Level Order Traversal - leetcode medium problem
