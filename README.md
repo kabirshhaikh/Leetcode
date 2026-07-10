@@ -676,3 +676,4 @@ Solved:
 -> Remove covered intervals - leetcode medium problem
 -> Binary Tree Level Order Traversal - leetcode medium problem
 -> Average of levels in binary tree - leetcode easy problem
+-> Binary tree zigzag level order traversal - leetcode medium problem
