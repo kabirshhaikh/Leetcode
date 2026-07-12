@@ -678,3 +678,4 @@ Solved:
 -> Average of levels in binary tree - leetcode easy problem
 -> Binary tree zigzag level order traversal - leetcode medium problem
 -> Maximum width of binary tree - leetcode medium problem
+-> Sum root to leaf numbers - leetcode medium problem
