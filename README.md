@@ -681,3 +681,4 @@ Solved:
 -> Sum root to leaf numbers - leetcode medium problem
 -> Count univalue subtrees - leetcode medium problem
 -> Flatten binary tree to linked list - leetcode medium problem
+-> Count good nodes in binary tree - leetcode medium problem
