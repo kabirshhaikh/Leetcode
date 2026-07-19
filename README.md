@@ -682,3 +682,4 @@ Solved:
 -> Count univalue subtrees - leetcode medium problem
 -> Flatten binary tree to linked list - leetcode medium problem
 -> Count good nodes in binary tree - leetcode medium problem
+-> Minimum limit of balls in a bag - leetcode medium problem
