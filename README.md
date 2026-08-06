@@ -686,3 +686,4 @@ Solved:
 -> Find if path exists in graph - leetcode easy problem
 -> Keys and rooms - leetcode medium problem
 -> Find the degree of each vertex - leetcode easy problem
+-> Remove methods from project - leetcode medium problem
