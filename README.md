@@ -692,3 +692,4 @@ Solved:
 -> Reorder routes to make all paths lead to the city zero - leetcode medium problem
 -> 01 Matrix - leetcode medium problem
 -> Making a large island - leetcode hard problem
+-> All paths from source to target - leetcode medium problem
