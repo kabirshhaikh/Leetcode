@@ -696,3 +696,4 @@ Solved:
 -> Number of operations to make network connected - leetcode medium prbolem
 -> Number of closed islands - leetcode medium problem
 -> Count sub islands - leetcode medium problem
+-> Longest cycle in a graph - leetcode hard problem
