@@ -697,3 +697,4 @@ Solved:
 -> Number of closed islands - leetcode medium problem
 -> Count sub islands - leetcode medium problem
 -> Longest cycle in a graph - leetcode hard problem
+-> Time needed to inform all employees - leetcode medium problem
