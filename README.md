@@ -698,3 +698,4 @@ Solved:
 -> Count sub islands - leetcode medium problem
 -> Longest cycle in a graph - leetcode hard problem
 -> Time needed to inform all employees - leetcode medium problem
+-> Find the center of star graph - leetcode easy problem
