@@ -699,3 +699,4 @@ Solved:
 -> Longest cycle in a graph - leetcode hard problem
 -> Time needed to inform all employees - leetcode medium problem
 -> Find the center of star graph - leetcode easy problem
+-> ount the number of complete components - leetcode medium problem
