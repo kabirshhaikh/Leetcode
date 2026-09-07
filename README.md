@@ -701,3 +701,4 @@ Solved:
 -> Find the center of star graph - leetcode easy problem
 -> ount the number of complete components - leetcode medium problem
 -> longest path with different adjacent characters - leetcode hard problem
+-> As far from land as possible - leetcode medium problem
