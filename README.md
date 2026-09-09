@@ -702,3 +702,4 @@ Solved:
 -> ount the number of complete components - leetcode medium problem
 -> longest path with different adjacent characters - leetcode hard problem
 -> As far from land as possible - leetcode medium problem
+-> Maximum number of fish in a grid - leetcode medium problem
