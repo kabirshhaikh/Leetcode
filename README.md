@@ -704,3 +704,4 @@ Solved:
 -> As far from land as possible - leetcode medium problem
 -> Maximum number of fish in a grid - leetcode medium problem
 -> Kth largest sum in a binary tree - leetcode medium problem
+-> Find duplicate subtrees - leetcode medium problem
