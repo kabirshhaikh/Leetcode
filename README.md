@@ -705,3 +705,4 @@ Solved:
 -> Maximum number of fish in a grid - leetcode medium problem
 -> Kth largest sum in a binary tree - leetcode medium problem
 -> Find duplicate subtrees - leetcode medium problem
+-> Minimum number of vertices to reach all nodes - leetcode medium problem
