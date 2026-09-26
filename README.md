@@ -708,3 +708,4 @@ Solved:
 -> Minimum number of vertices to reach all nodes - leetcode medium problem
 -> Reverse odd levels of binary tree - leetcode medium problem
 -> Divide players into teams of equal skill - leetcode medium problem
+-> Path with maximum gold - leetcode medium problem
