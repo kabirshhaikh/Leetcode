@@ -709,3 +709,4 @@ Solved:
 -> Reverse odd levels of binary tree - leetcode medium problem
 -> Divide players into teams of equal skill - leetcode medium problem
 -> Path with maximum gold - leetcode medium problem
+-> Minimum distance between bst nodes - leetcode easy problem
