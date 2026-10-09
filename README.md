@@ -710,3 +710,4 @@ Solved:
 -> Divide players into teams of equal skill - leetcode medium problem
 -> Path with maximum gold - leetcode medium problem
 -> Minimum distance between bst nodes - leetcode easy problem
+-> Minimum cost to reach city with discounts - leetcode medium problem
