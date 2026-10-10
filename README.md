@@ -711,3 +711,4 @@ Solved:
 -> Path with maximum gold - leetcode medium problem
 -> Minimum distance between bst nodes - leetcode easy problem
 -> Minimum cost to reach city with discounts - leetcode medium problem
+-> Insert Delete GetRandom O(1) - leetcode medium problem
