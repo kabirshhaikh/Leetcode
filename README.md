@@ -713,3 +713,4 @@ Solved:
 -> Minimum cost to reach city with discounts - leetcode medium problem
 -> Insert Delete GetRandom O(1) - leetcode medium problem
 -> Shortest word distance 2 - leetcode medium problem
+-> Find closest nodes to given two nodes - leetcode medium problem
