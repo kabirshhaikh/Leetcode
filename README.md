@@ -714,3 +714,4 @@ Solved:
 -> Insert Delete GetRandom O(1) - leetcode medium problem
 -> Shortest word distance 2 - leetcode medium problem
 -> Find closest nodes to given two nodes - leetcode medium problem
+-> Populating next right pointers in each node 2 - leetcode medium problem
