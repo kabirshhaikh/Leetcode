@@ -715,3 +715,4 @@ Solved:
 -> Shortest word distance 2 - leetcode medium problem
 -> Find closest nodes to given two nodes - leetcode medium problem
 -> Populating next right pointers in each node 2 - leetcode medium problem
+-> Design bus seat booking system - leetcode medium problem
