@@ -716,3 +716,4 @@ Solved:
 -> Find closest nodes to given two nodes - leetcode medium problem
 -> Populating next right pointers in each node 2 - leetcode medium problem
 -> Design bus seat booking system - leetcode medium problem
+-> Maximum level sum of a binary tree - leetcode medium problem
